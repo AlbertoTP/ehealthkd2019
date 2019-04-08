@@ -17,14 +17,17 @@ nlp = spacy.load('es_core_news_sm') #es_core_news_sm-2.0.0
 
 #doc = nlp(sentences[0])
 doc = nlp(u'El asma es una emfermedad que afecta las vías respiratorias.')
-doc = nlp(u'Apple está considerando comprar una startup en el Reino Unido por $ 1 mil millones')
+doc = nlp(u'La exposición prolongada al sol en verano provoca daños en la piel.')
+doc = nlp(u'Está afecta principalmente a las personas mayores de 60 años.')
+#doc = nlp(u'Apple está considerando comprar una startup en el Reino Unido por $ 1 mil millones')
 
 #linguistic features
 #https://spacy.io/usage/linguistic-features
 
 print(doc.text)
-#for token in doc:
+for token in doc:
 #    print(token.text, token.pos_, token.dep_)
+    print(token.text+" | "+token.lemma_+" | "+token.pos_+" | "+token.tag_+" | "+token.dep_+" | "+str(token.is_stop)+"\n")
 
 print(' '.join('{word}/{tag}'.format(word=t.orth_, tag=t.pos_) for t in doc))
 

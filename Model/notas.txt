@@ -1,0 +1,62 @@
+clips 
+
+auxiliar referencia
+todos los sustantivos son conceptos
+2 sustantivos seguidos es un concepto
+
+verbos acciones
+
+revisar como sacar el predicado
+
+
+Está afecta principalmente a las personas mayores de 60 años.
+
+
+check this
+https://spacy.io/api/annotation#pos-tagging
+
+
+Concepto: una categoría general que indica que la frase clave es un término relevante, concepto, idea, en el dominio de conocimiento de la oración.
++NOUN
++ADJ
+
+
+Acción: un concepto que indica un proceso o modificación de otros conceptos. Puede ser indicado por un verbo o construcción verbal, como "ver * (afecta), pero también por sustantivos, como" exposición "(exposición), donde denota el acto de estar expuesto al Sol y" daños " (daños), donde denota el acto de dañar la piel. También se puede utilizar para indicar relaciones funcionales no verbales, como "padre" (padre), etc.
++verb
++Noun
+
+
+Predicado: se utiliza para representar una función o filtro de otro conjunto de elementos, que tiene una etiqueta semántica en el texto, como "mayores" (más antiguo), y se aplica a un concepto, como "personas" (personas) con algunos Argumentos adicionales como “60 años” (60 años).
+
+
+
+Referencia: un elemento textual que se refiere a un concepto, de la misma oración o de otro diferente, que se puede indicar mediante pistas textuales como "esta", "aquel", etc.
+
+
+
+>>>eliminar:
+DET
+det
+ADP
+
+>>>concept
+NOUN
+
+
+concept multilinea
+amod =NOUN+ADJ
+nummod=NUM+NOUN
+
+>>>Action
+tiene acl, obj
+VERB
+NOUN tiene amod nsubj
+
+
+>>>refere
+AUX tener cop
+
+
+
+
+
