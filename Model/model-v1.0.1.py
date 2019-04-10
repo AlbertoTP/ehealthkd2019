@@ -93,7 +93,7 @@ DicReference={
 #6Children
 #7type
 """
-def isConcept(element):
+def isConcept(element,cid):
     #Concept
     if (element[2] in DicConcept):
         #Dep with child
@@ -101,44 +101,46 @@ def isConcept(element):
             for parent in element[6]:
                 #print (">>>",parent,parent.pos_,parent.dep_)
                 if ( (element[3] in DicConcept) or (parent.dep_ in DicConcept) ):
-                    print ("> #\tConcept\t#,#\t",element[1])
+                    print (str(cid)+"\t"+"Concept\t"+"#,#"+"\t"+element[1])
                     return "Concept"
         #Dep with parent
         else:
             if ( (element[3] in DicConcept) or (element[5]=="ADJ") ):
-                print ("> #\tConcept\t#,#\t",element[1])
+                print (str(cid)+"\t"+"Concept\t"+"#,#"+"\t"+element[1])
                 return "Concept"
     else:
         return False
     
-def isAction(element):
+def isAction(element,cid):
     #Action
     if ( ((element[2] in DicAction) and (element[3] in DicAction)) or element[2] =="VERB" ):
-        print ("> #\tAction\t#,#\t",element[1])
+        print (str(cid)+"\t"+"Action\t"+"#,#"+"\t"+element[1])
         return "Action"
     else:
         return False
 
-def isReference(element):
+def isReference(element,cid):
     #Reference
     if ( (element[2] in DicReference) and (element[3] in DicReference) ):
-        print ("> #\tReference\t#,#\t",element[1])
+        print (str(cid)+"\t"+"Reference\t"+"#,#"+"\t"+element[1])
         return "Reference"
     else:
         return False
 
-def taggging(printline):
+def taggging(printline,cid):
     for element in printline:
         #print (element)
         tmp=False
         #Concept
-        tmp=isConcept(element)
-        if not(tmp):
-            element[7]=tmp            
-        #Action
-        tmp=isAction(element)
-        if not(tmp):
+        tmp=isConcept(element,cid)
+        if (tmp):
             element[7]=tmp
+            cid+=1
+        #Action
+        tmp=isAction(element,cid)
+        if (tmp):
+            element[7]=tmp
+            cid+=1
         #Predicate
         if ((element[2] in DicPredicate) and (element[3] in DicPredicate)):
             #tener referencia de un concepto
@@ -149,31 +151,36 @@ def taggging(printline):
                     if (element[4]==i[1]):                            
                         #print (">>>>>>>>>>",i)
                         if (i[7]=="Concept"):
-                            print ("> #\tPredicate\t#,#\t",element[1])
+                            print (str(cid)+"\t"+"Predicate\t"+"#,#"+"\t",element[1])
                             element[7]="Predicate"
+                            cid+=1
                         else:
-                            if (isConcept(i)=="Concept"):
-                                print ("> #\tPredicate\t#,#\t",element[1])
+                            if (isConcept(i,cid)=="Concept"):
+                                print (str(cid)+"\t"+"Predicate\t"+"#,#"+"\t",element[1])
                                 element[7]="Predicate"
+                                cid+=1
         #Action
-        tmp=isReference(element)
-        if not(tmp):
+        tmp=isReference(element,cid)
+        if (tmp):
             element[7]=tmp
+            cid+=1
+    return cid
 
 def main():
     starting_point = time.time()
     print ("eHealth-KD Challenge 2019")    
     #path="trial/input_trial.txt"
     path="trial/example.txt"
-    res="result-v1.0.1.txt"
+    #res="result-v1.0.1.txt"
     try:
         file = open(path,"r")
-        result=open(res,"w")
+        #result=open(res,"w")
     except IOError:
         print ("There was an ERROR reading file")
         sys.exit()
 
     ind=1
+    cid=1
     #print ("ID\tSTART/END\tLABEL\tTEXT (optional)")
     for linea in file.readlines():
         line=linea.rstrip('\n')#.split(" ")
@@ -201,13 +208,13 @@ def main():
 
             indWord+=1
         ind+=1
-        taggging(LabelLine)
+        cid=taggging(LabelLine,cid)
 
 
     file.close()
     
     print ("\n>>> ArchivoTraining(train): ",path)
-    print (">>> Resultados(result): ",res)
+    #print (">>> Resultados(result): ",res)
     print ("Execution Time: ",time.time()-starting_point)
 
 if __name__ == "__main__":
