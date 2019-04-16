@@ -1,14 +1,9 @@
 #eHealth-KD Challenge 2019
 
-More information about this: [clic here](https://knowledge-learning.github.io/ehealthkd-2019/)
 
-##Subtask A: Identification and classification of key phrases
+Subtask A: Identification and classification of key phrases
 
 Given a list of eHealth documents written in Spanish, the goal of this subtask is to identify all the key phrases per document and their classes. These key phrases are all the relevant terms (single word or multiple words) that represent semantically important elements in a sentence. The following figure shows the relevant key phrases that appear in the example sentences shown in the previous section.
-
-
-![task_a.png](https://knowledge-learning.github.io/ehealthkd-2019/img/task_a.png "Task A")
-
 
 Note that some key phrases (“vías respiratorias” and “60 años”) span more than one word. Key phrases will always consist of one or more complete words (i.e., not a prefix or a suffix of a word), and will never include any surrounding punctuation symbols. There are four categories or classes for key phrases:
 
@@ -22,8 +17,6 @@ Subtask A input is a text document with a sentence per line. All sentences have 
 ID \tab START END ; START END \tab LABEL \tab TEXT
 
 The ID is a numerical identifier that will be used in Subtask B to link key phrases with their relations. The START and END indicate the starting and ending character of the text span. Multi-word phrases such as vías respiratorias where all the words are continuous can either be indicated by a single START / END pair or by several START / END (one for each word) separated by semicolons (;). Multi-word phrases where the words are not continuous must use semicolons to separate the different portions of the phrase. In the training documents we will always represent multi-word phrases separately for consistency. The TEXT portion simply reproduces the full text of the key phrase. This portion will be ignored in the evaluation, so participants are free not to produce it, but it will be provided in all training documents, and we recommend participants to also produce it, since it simplifies manual inspection during development. LABEL is one of the previous four categories defined. In this example, a possible output file is the following:
-
-
 
 ID      START/END               LABEL           TEXT (optional)
 1       3 7                     Concept         asma
@@ -41,4 +34,10 @@ ID      START/END               LABEL           TEXT (optional)
 13      172 180                 Concept         personas
 14      181 188                 Predicate       mayores
 15      192 194;195 199         Concept         60 años
+
+view raw docs/sample_output_a.txt
+
+    NOTE: Column headers are optional, and only shown here for illustrative purposes.
+
+    Recap: Columns are separated by one or more TAB characters. The two numbers inside each START/END pair are separated by one SPACE character. The different START/END pairs for each multi-word are separated by one SEMICOLON ( ; ) character.
 

@@ -167,9 +167,9 @@ def taggging(printline):
 def main():
     starting_point = time.time()
     print ("eHealth-KD Challenge 2019")    
-    #path="trial/input_trial.txt"
-    path="trial/example.txt"
-    res="result-v1.0.1.txt"
+    path="trial/input_trial.txt"
+    #path="trial/example.txt"
+    res="result-v1.0.2.txt"
     try:
         file = open(path,"r")
         result=open(res,"w")
@@ -221,7 +221,7 @@ def main():
                 #print ("> ",element)
                 if ( element[4] == temp1 ):
                     print (str(cid)+"\tConcept"+"\t"+str(temp2)+","+str(element[9])+"\t"+temp1+" "+str(element[1]))
-                    archivo+=str(cid)+"\tConcept"+"\t"+str(temp2)+","+str(element[9])+"\t"+temp1+" "+str(element[1])
+                    archivo+=str(cid)+"\tConcept"+"\t"+str(temp2)+","+str(element[9])+"\t"+temp1+" "+str(element[1])+"\n"
                     cid+=1
             temp1=element[1]
             temp2=element[8]
@@ -229,12 +229,12 @@ def main():
             if (element[7]!=''):
                 #print (str(cid),element)
                 print (str(cid)+"\t"+str(element[7])+"\t"+str(element[8])+","+str(element[9])+"\t"+str(element[1]))
-                archivo+=str(cid)+"\t"+str(element[7])+"\t"+str(element[8])+","+str(element[9])+"\t"+str(element[1])
+                archivo+=str(cid)+"\t"+str(element[7])+"\t"+str(element[8])+","+str(element[9])+"\t"+str(element[1])+"\n"
                 cid+=1
         cont_tot+=len(line)
 
-    file.write(archivo)
-    file.close()
+    result.write(archivo)
+    result.close()
     
     print ("\n>>> ArchivoTraining(train): ",path)
     print (">>> Resultados(result): ",res)
