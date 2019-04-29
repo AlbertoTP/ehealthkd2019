@@ -1,0 +1,69 @@
+1	Concept	3,10	mayoría
+2	Concept	18,26	personas
+3	Action	34,40	padece
+4	Reference	41,43	ha
+5	Action	44,53	trabajado
+6	Action	78,87	inhalaron
+7	Concept	88,98	partículas
+8	Concept	102,109	asbesto
+9	Concept	117,122	tipos
+10	Concept	126,140	inmunoterapias
+11	Action	141,149	trabajan
+12	Action	150,161	potenciando
+13	Concept	165,172	sistema
+14	Concept	165,184	sistema inmunitario
+15	Action	190,198	trabajar
+16	Action	226,232	existe
+17	Concept	236,247	tratamiento
+18	Action	252,263	restablezca
+19	Concept	267,274	función
+20	Concept	267,282	función ovárica
+21	Concept	303,310	cirugía
+22	Concept	315,322	mayoría
+23	Concept	326,335	pacientes
+24	Concept	326,349	pacientes trasplantados
+25	Reference	350,356	pueden
+26	Action	357,363	volver
+27	Concept	370,381	actividades
+28	Concept	370,390	actividades normales
+29	Action	398,404	conoce
+30	Concept	408,413	causa
+31	Concept	408,420	causa exacta
+32	Concept	425,432	mieloma
+33	Concept	425,441	mieloma múltiple
+34	Reference	448,450	es
+35	Concept	468,476	personas
+36	Concept	480,484	edad
+37	Predicate	485,493	avanzada
+38	Concept	523,528	fases
+39	Concept	533,538	sueño
+40	Reference	539,545	pueden
+41	Action	546,554	ayudarle
+42	Concept	557,565	sentirse
+43	Predicate	570,580	descansado
+44	Concept	598,601	día
+45	Concept	598,611	día siguiente
+46	Concept	619,627	síntomas
+47	Reference	628,634	pueden
+48	Action	635,643	aparecer
+49	Action	646,657	desaparecer
+50	Action	659,666	Intente
+51	Action	667,673	seguir
+52	Concept	678,683	dieta
+53	Concept	678,693	dieta saludable
+54	Action	696,705	asegúrese
+55	Concept	709,717	ocuparse
+56	Concept	731,739	problema
+57	Concept	684,689	salud
+58	Action	753,758	tenga
+59	Reference	795,800	puede
+60	Action	801,807	evitar
+61	Concept	820,830	sobredosis
+62	Concept	837,848	interacción
+63	Predicate	852,859	deseada
+64	Reference	868,872	esté
+65	Action	884,889	tener
+66	Concept	895,899	bebé
+67	Action	907,916	comenzará
+68	Concept	920,927	trabajo
+69	Concept	931,936	parto

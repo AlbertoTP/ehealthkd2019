@@ -1,8 +1,8 @@
-#eHealth-KD Challenge 2019
+# eHealth-KD Challenge 2019
 
 More information about this: [clic here](https://knowledge-learning.github.io/ehealthkd-2019/)
 
-##Subtask A: Identification and classification of key phrases
+## Subtask A: Identification and classification of key phrases
 
 Given a list of eHealth documents written in Spanish, the goal of this subtask is to identify all the key phrases per document and their classes. These key phrases are all the relevant terms (single word or multiple words) that represent semantically important elements in a sentence. The following figure shows the relevant key phrases that appear in the example sentences shown in the previous section.
 
@@ -12,10 +12,18 @@ Given a list of eHealth documents written in Spanish, the goal of this subtask i
 
 Note that some key phrases (“vías respiratorias” and “60 años”) span more than one word. Key phrases will always consist of one or more complete words (i.e., not a prefix or a suffix of a word), and will never include any surrounding punctuation symbols. There are four categories or classes for key phrases:
 
+
     Concept: a general category that indicates the key phrase is a relevant term, concept, idea, in the knowledge domain of the sentence.
+    
+    
     Action: a concept that indicates a process or modification of other concepts. It can be indicated by a verb or verbal construction, such as “afecta* (affects), but also by nouns, such as “exposición” (exposition), where it denotes the act of being exposed to the Sun, and “daños” (damages), where it denotes the act of damaging the skin. It can also be used to indicate non-verbal functional relations, such as “padre” (parent), etc.
+    
+    
     Predicate: used to represent a function or filter of another set of elements, which has a semantic label in the text, such as “mayores” (older), and is applied to a concept, such as “personas” (people) with some additional arguments such as “60 años” (60 years).
+    
+    
     Reference: A textual element that refers to a concept –of the same sentence or of different one–, which can be indicated by textual clues such as “esta”, “aquel”, etc.
+
 
 Subtask A input is a text document with a sentence per line. All sentences have been tokenized at the word level (i.e., punctuation signs, parenthesis, etc, are separated from the surrounding text). The output consists of a plain text file, where each line represents a key phrase. Each line has the following format:
 
@@ -26,19 +34,33 @@ The ID is a numerical identifier that will be used in Subtask B to link key phra
 
 
 ID      START/END               LABEL           TEXT (optional)
-1       3 7                     Concept         asma
-2       15 25                   Concept         enfermedad
-3       30 36                   Action          afecta
-4       41 45;46 59             Concept         vías respiratorias
-5       65 75                   Action          exposición
-6       76 86                   Concept         prolongada
-7       90 93                   Concept         sol
-8       97 103                  Concept         verano
-9       120 125                 Action          daños
-10      132 136                 Concept         piel
-11      139 143                 Reference       Esta
-12      144 150                 Action          afecta
-13      172 180                 Concept         personas
-14      181 188                 Predicate       mayores
-15      192 194;195 199         Concept         60 años
 
+1       3 7                     Concept         asma
+
+2       15 25                   Concept         enfermedad
+
+3       30 36                   Action          afecta
+
+4       41 45;46 59             Concept         vías respiratorias
+
+5       65 75                   Action          exposición
+
+6       76 86                   Concept         prolongada
+
+7       90 93                   Concept         sol
+
+8       97 103                  Concept         verano
+
+9       120 125                 Action          daños
+
+10      132 136                 Concept         piel
+
+11      139 143                 Reference       Esta
+
+12      144 150                 Action          afecta
+
+13      172 180                 Concept         personas
+
+14      181 188                 Predicate       mayores
+
+15      192 194;195 199         Concept         60 años

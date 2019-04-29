@@ -164,6 +164,8 @@ def taggging(printline):
             element[7]=tmp
     return printline
 
+word_start=0
+word_end=0
 def main():
     starting_point = time.time()
     print ("eHealth-KD Challenge 2019")    
@@ -182,8 +184,6 @@ def main():
     ind=1
     cid=1
     cont_tot=0
-    word_start=0
-    word_end=0
     #print ("ID\tSTART/END\tLABEL\tTEXT (optional)")
     for linea in file.readlines():
         line=linea.rstrip('\n')#.split(" ")
@@ -192,14 +192,12 @@ def main():
         doc = nlp(line)
         #print ("len: ",len(line))
         #print(doc.text)
-        indWord=0
+        indWord=1
         #print("###|Text\t Tag\t Dep\t Head text\t Head POS\t Children")
         #classifies with labels
         LabelLine=[]
         for token in doc:
-            print(token.text,"\t",token.pos_,"\t",token.dep_,"\t",token.head.text,"\t",token.head.pos_,"\t",[child for child in token.children])
-            indWord+=1
-            #print ("indWord: ",indWord)
+            #print(token.text,"\t",token.pos_,"\t",token.dep_,"\t",token.head.text,"\t",token.head.pos_,"\t",[child for child in token.children])
                 
             #delete the tag of the token
             #if not((token.pos_ in DicDelTags) or (token.dep_ in DicDelTags)):
@@ -213,10 +211,10 @@ def main():
             #print (child)
             word_start=cont_tot+line.index(token.text)
             word_end=word_start+len(token.text)
-            print (word_start,word_end)
+            #print (word_start,word_end)
             LabelLine.append([indWord,token.text,token.pos_,token.dep_,token.head.text,token.head.pos_,child,'',word_start,word_end])
 
-#            indWord+=1
+            indWord+=1
 #            if (token.pos_=="PUNCT"):
 #                indWord+=1
             
@@ -240,7 +238,7 @@ def main():
                 print (str(cid)+"\t"+str(element[7])+"\t"+str(element[8])+","+str(element[9])+"\t"+str(element[1]))
                 archivo+=str(cid)+"\t"+str(element[7])+"\t"+str(element[8])+","+str(element[9])+"\t"+str(element[1])+"\n"
                 cid+=1
-        cont_tot+=len(line)
+        cont_tot+=len(line)+1
 
     result.write(archivo)
     result.close()

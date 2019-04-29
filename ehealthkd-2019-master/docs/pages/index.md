@@ -27,7 +27,10 @@ To simplify the evaluation process, two subtasks are presented:
 
 ## Submissions and evaluation
 
-The challenge will be graded in Codalab. [Details about submissions are provided here](evaluation).
+The challenge will be graded in Codalab.
+
+* [Submission instructions are provided here](submission)
+* [The evaluation metrics are explained here](evaluation)
 
 There are three evaluation scenarios:
 1. [A main scenario covering both tasks](evaluation#main-evaluation-scenario-1)
@@ -43,24 +46,26 @@ All the data will be made available to participants in due time. This includes t
 |Date|Event|Link|
 |---|---|---|
 | **11 Feb 2018** | Trial data ready                                                    | [Trial data in Github](https://github.com/knowledge-learning/ehealthkd-2019/tree/master/data/trial) |
-| **01 Apr 2019** | Training and development data ready                                 | (_to be announced..._) |
+| **01 Apr 2019** | Training and development data ready                                 | [Training and dev data](https://forms.gle/3KHAvo7e5MfxtnME9) |
 | **29 Apr 2019** | **Registration deadline** <br> (due by 23:59 GMT -12:00)            | (_to be announced..._) |
 | **30 Apr 2019** | **Evaluation start** <br> Test data released                        | (_to be announced..._) |
-| **06 May 2019** | **Evaluation end** <br> (due by 23:59 GMT -12:00)                   | (_to be announced..._) |
-| **13 May 2019** | Results posted                                                      | (_to be announced..._) |
+| ~~**06 May 2019**~~ <br>**13 May 2019** | **Evaluation end** <br> (due by 23:59 GMT -12:00)                   | (_to be announced..._) |
+| ~~**13 May 2019**~~ <br>**20 May 2019** | Results posted                                                      | (_to be announced..._) |
 | **03 Jun 2019** | System description paper submissions <br> (due by 23:59 GMT -12:00) | (_to be announced..._) |
 | **14 Jun 2019** | Paper reviews                                                       | (_to be announced..._) |
 | **17 Jun 2019** | Author notifications                                                | (_to be announced..._) |
 | **24 Jun 2019** | Camera ready submissions                                            | (_to be announced..._) |
 
 ## Instructions for participation
+
 The competition is managed and run in the [Codalab Competitions platform](https://competitions.codalab.org/competitions/21781). For participation, please register on the platform and follow the instructions detailed there. The following pages provide a detailed description of the problem to be solved and the evaluation. In Codalab you will find details about how to submit a solution, as well as all relevant links.
 
 [Click here to enter the competition](https://competitions.codalab.org/competitions/21781).
 
-To download the relevant data, please visit: (**link coming soon**).
+To download the relevant data, [please visit here](https://forms.gle/3KHAvo7e5MfxtnME9).
 
 ## Publication instructions
+
 The following instructions are subject to change to adapt to the official IberLEF 2019 requirements.
 
 Send your paper to our Program Comitee at [chairs_eHealth-KD@googlegroups.com](mailto:chairs_eHealth-KD@googlegroups.com) before June 3rd, 2019.
@@ -91,6 +96,8 @@ Up to 6 pages plus references formatted according to the [SEPLN template](http:/
 A Google Group will be set up for this “eHealth Shared Task” where announcements will be made.
 Feel free to send your questions and feedback to [ehealth-kd@googlegroups.com](mailto:ehealth-kd@googlegroups.com).
 General issues and feedback should be posted on our [Issues Page](https://github.com/knowledge-learning/ehealthkd-v2/issues) in Github.
+
+Follow [@eHealthKD](https://twitter.com/eHealthKD) on Twitter for up-to-date news, comments and tips about the competition.
 
 ### Funding
 
