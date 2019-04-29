@@ -67,3 +67,3806 @@
 67	Action	907,916	comenzará
 68	Concept	920,927	trabajo
 69	Concept	931,936	parto
+70	Action	941,945	está
+71	Concept	949,955	riesgo
+72	Concept	959,967	diabetes
+73	Action	968,972	tipo
+74	Reference	982,988	podría
+75	Concept	989,999	retrasarla
+76	Action	1002,1010	prevenir
+77	Concept	1014,1024	desarrollo
+78	Action	1028,1033	hacer
+79	Concept	1039,1046	cambios
+80	Concept	1053,1059	estilo
+81	Concept	1063,1067	vida
+82	Concept	1073,1084	componentes
+83	Concept	1089,1097	arsénico
+84	Action	1101,1105	usan
+85	Action	1111,1120	preservar
+86	Concept	1124,1130	madera
+87	Concept	1177,1187	exposición
+88	Concept	1177,1196	exposición repetida
+89	Predicate	1188,1196	repetida
+90	Concept	1203,1211	proteína
+91	Concept	1216,1221	látex
+92	Concept	1216,1229	látex natural
+93	Reference	1230,1235	puede
+94	Action	1236,1244	aumentar
+95	Concept	1249,1263	probabilidades
+96	Action	1267,1278	desarrollar
+97	Concept	1283,1290	alergia
+98	Action	1314,1322	incluyen
+99	Concept	1323,1335	medicamentos
+100	Concept	1338,1346	terapias
+101	Concept	1338,1359	terapias conductuales
+102	Concept	1365,1371	partes
+103	Concept	1378,1386	garganta
+104	Action	1390,1396	llaman
+105	Concept	1446,1450	caja
+106	Concept	1446,1459	caja laríngea
+107	Concept	1482,1490	demencia
+108	Action	1494,1504	desarrolla
+109	Action	1522,1527	causa
+110	Concept	1528,1541	alucinaciones
+111	Action	1551,1558	sienten
+112	Action	1559,1566	picazón
+113	Action	1618,1624	coloca
+114	Concept	1629,1633	gota
+115	Concept	1641,1649	medicina
+116	Action	1657,1662	llama
+117	Concept	1663,1671	atropina
+118	Concept	1678,1681	ojo
+119	Concept	1694,1698	niño
+120	Concept	1703,1715	espondilitis
+121	Reference	1703,1705	es
+122	Concept	1735,1739	tipo
+123	Concept	1743,1751	artritis
+124	Concept	1758,1765	columna
+125	Concept	1758,1775	columna vertebral
+126	Action	1777,1785	Contiene
+127	Concept	1786,1793	células
+128	Concept	1786,1803	células inmaduras
+129	Predicate	1804,1812	llamadas
+130	Concept	1786,1793	células
+131	Concept	1821,1826	madre
+132	Concept	1840,1851	actividades
+133	Action	1852,1860	componen
+134	Concept	1864,1875	metabolismo
+135	Concept	1880,1886	cuerpo
+136	Concept	1891,1897	cáncer
+137	Concept	1901,1907	pulmón
+138	Reference	1908,1910	es
+139	Concept	1922,1930	cánceres
+140	Predicate	1935,1942	comunes
+141	Concept	1949,1954	mundo
+142	Reference	1956,1958	Es
+143	Concept	1995,2006	conmociones
+144	Concept	1995,2017	conmociones cerebrales
+145	Action	2021,2029	pondrían
+146	Concept	2043,2047	vida
+147	Reference	2049,2055	pueden
+148	Reference	2056,2059	ser
+149	Concept	2071,2078	terapia
+150	Concept	2071,2087	terapia dirigida
+151	Reference	2088,2090	es
+152	Concept	2094,2098	tipo
+153	Concept	2102,2113	tratamiento
+154	Action	2127,2135	utilizan
+155	Concept	2136,2146	sustancias
+156	Action	2152,2163	identificar
+157	Action	2166,2172	atacar
+158	Concept	2173,2180	células
+159	Concept	2173,2191	células cancerosas
+160	Predicate	2181,2191	cancerosas
+161	Concept	2181,2203	cancerosas específicas
+162	Action	2208,2213	dañar
+163	Concept	2173,2180	células
+164	Concept	2173,2234	células normales
+165	Reference	2241,2246	puede
+166	Reference	2247,2250	ser
+167	Action	2290,2295	deben
+168	Concept	2296,2306	encargarse
+169	Concept	2314,2322	cuidados
+170	Concept	2327,2340	asesoramiento
+171	Concept	2327,2349	asesoramiento genético
+172	Action	2350,2356	ofrece
+173	Concept	2357,2368	información
+174	Concept	2383,2391	personas
+175	Action	2396,2402	tienen
+176	Reference	2405,2411	pueden
+177	Action	2412,2417	tener
+178	Concept	2418,2425	riesgos
+179	Concept	2429,2439	trastornos
+180	Concept	2429,2449	trastornos genéticos
+181	Concept	2467,2474	quistes
+182	Action	2475,2481	crecen
+183	Concept	2514,2520	fobias
+184	Action	2521,2530	comienzan
+185	Action	2566,2575	continúan
+186	Concept	2587,2591	edad
+187	Concept	2587,2598	edad adulta
+188	Action	2622,2627	trata
+189	Concept	2632,2641	infección
+190	Action	2642,2647	queda
+191	Concept	2665,2677	fibromialgia
+192	Reference	2678,2680	es
+193	Concept	2685,2694	condición
+194	Action	2699,2704	causa
+195	Concept	2705,2710	dolor
+196	Concept	2755,2763	síndrome
+197	Action	2783,2790	ocurren
+198	Concept	2806,2815	infección
+199	Concept	2806,2821	infección viral
+200	Reference	2843,2845	es
+201	Concept	2849,2854	lugar
+202	Action	2864,2874	desarrolla
+203	Concept	2878,2882	bebé
+204	Concept	2894,2899	mujer
+205	Reference	2900,2904	está
+206	Concept	2920,2929	parálisis
+207	Concept	2920,2938	parálisis cerebral
+208	Reference	2939,2941	es
+209	Concept	2945,2950	grupo
+210	Concept	2954,2964	trastornos
+211	Action	2969,2975	afecta
+212	Concept	2979,2988	capacidad
+213	Concept	2996,3003	persona
+214	Concept	3009,3016	moverse
+215	Action	3018,3026	mantener
+216	Concept	3030,3040	equilibrio
+217	Concept	3059,3067	sentidos
+218	Concept	3072,3077	gusto
+219	Action	3094,3101	brindan
+220	Concept	3107,3113	placer
+221	Concept	3120,3127	bloqueo
+222	Action	3128,3135	provoca
+223	Concept	3139,3146	aumento
+224	Concept	3153,3160	presión
+225	Concept	3162,3171	problemas
+226	Concept	3179,3184	flujo
+227	Concept	3191,3197	sangre
+228	Concept	3217,3225	derrames
+229	Concept	3229,3237	petróleo
+230	Reference	3246,3252	pueden
+231	Action	3253,3260	afectar
+232	Concept	3266,3271	salud
+233	Concept	3266,3278	salud humana
+234	Concept	3283,3292	hepatitis
+235	Reference	3293,3295	es
+236	Concept	3300,3311	inflamación
+237	Concept	3316,3322	hígado
+238	Concept	3327,3335	síndrome
+239	Reference	3351,3353	es
+240	Concept	3357,3363	cuadro
+241	Action	3368,3374	ocurre
+242	Action	3397,3403	tienen
+243	Concept	3417,3418	X
+244	Concept	3435,3442	mayoría
+245	Concept	3450,3457	células
+246	Concept	3560,3566	siglas
+247	Concept	3570,3576	inglés
+248	Reference	3578,3582	debe
+249	Action	3583,3590	aprobar
+250	Concept	3601,3612	medicamento
+251	Reference	3629,3634	pueda
+252	Action	3635,3641	vender
+253	Concept	3660,3666	receta
+254	Concept	3660,3673	receta médica
+255	Concept	3678,3684	dengue
+256	Action	3691,3700	transmite
+257	Concept	3704,3711	persona
+258	Concept	3704,3711	persona
+259	Concept	3726,3742	panel metabólico
+260	Reference	3743,3745	es
+261	Concept	3749,3754	grupo
+262	Concept	3758,3765	pruebas
+263	Action	3770,3774	mide
+264	Action	3818,3823	tiene
+265	Concept	3824,3835	prediabetes
+266	Action	3836,3845	significa
+267	Concept	3854,3861	niveles
+268	Concept	3865,3872	glucosa
+269	Concept	3877,3881	tipo
+270	Concept	3885,3891	azúcar
+271	Concept	3899,3905	sangre
+272	Reference	3906,3909	son
+273	Concept	4009,4013	piel
+274	Reference	4022,4027	puede
+275	Action	4028,4033	tener
+276	Concept	4034,4043	parásitos
+277	Action	4059,4064	sarna
+278	Concept	4070,4079	capilares
+279	Reference	4080,4083	son
+280	Concept	4093,4098	vasos
+281	Action	4114,4122	conectan
+282	Concept	4129,4137	arterias
+283	Concept	4144,4149	venas
+284	Concept	4159,4165	tamaño
+285	Action	4173,4181	incluyen
+286	Concept	4182,4194	medicamentos
+287	Concept	4225,4232	defecto
+288	Concept	4225,4241	defecto cardíaco
+289	Reference	4252,4254	es
+290	Concept	4258,4266	problema
+291	Concept	4274,4284	estructura
+292	Concept	4289,4296	corazón
+293	Reference	4313,4315	es
+294	Concept	4319,4325	nombre
+295	Action	4333,4336	usa
+296	Action	4342,4348	llamar
+297	Concept	4355,4367	enfermedades
+298	Concept	4372,4379	músculo
+299	Concept	4372,4388	músculo cardíaco
+300	Concept	4393,4398	gente
+301	Reference	4399,4401	es
+302	Concept	4415,4425	sustancias
+303	Concept	4415,4433	sustancias tóxicas
+304	Concept	4448,4455	maneras
+305	Concept	4485,4493	personas
+306	Reference	4524,4526	es
+307	Concept	4527,4532	mujer
+308	Concept	4550,4564	diverticulosis
+309	Action	4568,4576	descubre
+310	Concept	4587,4593	médico
+311	Action	4597,4603	ordena
+312	Concept	4612,4620	exámenes
+313	Action	4621,4629	buscando
+314	Concept	4635,4644	condición
+315	Concept	4649,4653	paso
+316	Concept	4658,4663	ácido
+317	Concept	4673,4681	estómago
+318	Concept	4691,4698	esófago
+319	Action	4702,4710	denomina
+320	Concept	4711,4718	reflujo
+321	Concept	4711,4734	reflujo gastroesofágico
+322	Concept	4742,4750	tiroides
+323	Reference	4751,4755	está
+324	Action	4774,4781	produce
+325	Concept	4786,4794	hormonas
+326	Concept	4786,4804	hormonas tiroideas
+327	Concept	4819,4825	cuerpo
+328	Action	4826,4834	necesita
+329	Concept	4842,4848	hongos
+330	Action	4849,4854	viven
+331	Concept	4861,4866	suelo
+332	Concept	4874,4879	zonas
+333	Concept	4874,4886	zonas áridas
+334	Concept	4895,4903	suroeste
+335	Concept	4924,4931	órganos
+336	Action	4949,4954	harán
+337	Concept	4970,4979	funciones
+338	Concept	4984,4988	bazo
+339	Concept	4994,5005	infecciones
+340	Concept	5010,5019	levaduras
+341	Action	5033,5039	causan
+342	Concept	5040,5054	enrojecimiento
+343	Concept	5071,5077	vagina
+344	Concept	5098,5103	tipos
+345	Concept	5107,5113	cáncer
+346	Reference	5114,5120	pueden
+347	Action	5121,5128	ocurrir
+348	Action	5168,5179	amamantaron
+349	Concept	5186,5191	bebés
+350	Reference	5199,5204	puede
+351	Action	5205,5211	ayudar
+352	Action	5214,5222	prevenir
+353	Concept	5227,5234	errores
+354	Concept	5227,5242	errores médicos
+355	Reference	5246,5249	ser
+356	Concept	5253,5260	miembro
+357	Concept	5253,5267	miembro activo
+358	Concept	5274,5280	equipo
+359	Concept	5284,5292	atención
+360	Concept	5284,5299	atención médica
+361	Concept	5305,5317	tratamientos
+362	Reference	5326,5332	pueden
+363	Action	5333,5339	causar
+364	Concept	5340,5352	infertilidad
+365	Concept	5357,5365	análisis
+366	Concept	5369,5375	sangre
+367	Reference	5376,5381	puede
+368	Action	5382,5389	mostrar
+369	Action	5399,5404	tiene
+370	Concept	5408,5413	virus
+371	Concept	5414,5425	chikungunya
+372	Concept	5430,5444	fenilcetonuria
+373	Concept	5459,5465	siglas
+374	Concept	5469,5475	inglés
+375	Concept	5459,5465	siglas
+376	Concept	5500,5507	español
+377	Reference	5500,5502	es
+378	Concept	5515,5524	trastorno
+379	Concept	5515,5533	trastorno genético
+380	Concept	5548,5557	organismo
+381	Reference	5561,5566	puede
+382	Action	5567,5575	procesar
+383	Concept	5589,5597	proteína
+384	Concept	5589,5605	proteína llamada
+385	Concept	5606,5618	fenilalanina
+386	Concept	5459,5465	siglas
+387	Concept	5469,5475	inglés
+388	Concept	5459,5465	siglas
+389	Concept	5500,5507	español
+390	Concept	5690,5699	problemas
+391	Reference	5700,5706	pueden
+392	Action	5707,5715	empeorar
+393	Action	5729,5733	pasa
+394	Concept	5737,5743	tiempo
+395	Reference	5757,5759	es
+396	Action	5771,5777	buscar
+397	Concept	5778,5783	ayuda
+398	Predicate	5793,5800	posible
+399	Action	5808,5816	tendrían
+400	Action	5821,5831	realizarse
+401	Concept	5835,5841	examen
+402	Concept	5835,5850	examen completo
+403	Concept	5858,5862	ojos
+404	Action	5904,5912	mantener
+405	Concept	5913,5919	huesos
+406	Concept	5913,5931	huesos resistentes
+407	Action	5933,5940	consuma
+408	Concept	5945,5950	dieta
+409	Concept	5945,5955	dieta rica
+410	Concept	5968,5976	vitamina
+411	Action	5980,5989	practique
+412	Concept	5990,6000	ejercicios
+413	Action	6006,6010	fume
+414	Concept	6015,6022	mayoría
+415	Concept	6030,6038	personas
+416	Reference	6043,6048	están
+417	Predicate	6049,6059	infectadas
+418	Action	6079,6085	tienen
+419	Concept	6086,6094	síntomas
+420	Concept	6119,6127	latigazo
+421	Concept	6119,6136	latigazo cervical
+422	Concept	6142,6148	lesión
+423	Concept	6156,6163	tejidos
+424	Concept	6156,6171	tejidos blandos
+425	Concept	6176,6182	cuello
+426	Action	6195,6203	denomina
+427	Concept	6204,6214	distensión
+428	Concept	6217,6226	torcedura
+429	Concept	6176,6182	cuello
+430	Concept	6242,6248	dengue
+431	Reference	6249,6251	es
+432	Concept	6256,6265	infección
+433	Concept	6256,6273	infección causada
+434	Predicate	6266,6273	causada
+435	Concept	6281,6286	virus
+436	Concept	6291,6298	cocaína
+437	Reference	6299,6301	es
+438	Concept	6305,6310	polvo
+439	Concept	6305,6317	polvo blanco
+440	Concept	6341,6347	tejido
+441	Action	6348,6353	crece
+442	Concept	6361,6368	paredes
+443	Concept	6361,6377	paredes externas
+444	Concept	6382,6387	útero
+445	Reference	6414,6420	pueden
+446	Action	6421,6427	llegar
+447	Concept	6433,6443	superficie
+448	Concept	6450,6456	tierra
+449	Action	6459,6466	afectar
+450	Concept	6470,6474	piel
+451	Concept	6486,6493	insecto
+452	Concept	6522,6528	rostro
+453	Action	6530,6534	deja
+454	Concept	6535,6546	excrementos
+455	Concept	6535,6557	excrementos infectados
+456	Concept	6563,6570	riñones
+457	Action	6571,6580	controlan
+458	Concept	6584,6592	cantidad
+459	Concept	6596,6601	sodio
+460	Concept	6596,6610	sodio presente
+461	Action	6628,6633	tiene
+462	Concept	6563,6570	riñones
+463	Reference	6661,6667	pueden
+464	Concept	6668,6678	eliminarlo
+465	Action	6683,6690	acumula
+466	Concept	6708,6714	médula
+467	Concept	6708,6719	médula ósea
+468	Action	6730,6738	producen
+469	Concept	6743,6750	células
+470	Action	6758,6768	encuentran
+471	Action	6775,6780	linfa
+472	Concept	6786,6794	internas
+473	Action	6795,6803	incluyen
+474	Concept	6804,6808	daño
+475	Concept	6815,6822	órganos
+476	Concept	6855,6863	recuento
+477	Concept	6855,6873	recuento sanguíneo
+478	Concept	6885,6894	hemograma
+479	Action	6895,6902	incluye
+480	Concept	6912,6917	parte
+481	Concept	6923,6932	totalidad
+482	Concept	6942,6949	pruebas
+483	Action	6951,6960	Parpadear
+484	Concept	6969,6974	ayuda
+485	Action	6977,6984	limpiar
+486	Concept	6988,6994	tierra
+487	Concept	7020,7030	superficie
+488	Concept	7035,7038	ojo
+489	Concept	7044,7051	tumores
+490	Reference	7052,7058	pueden
+491	Reference	7059,7062	ser
+492	Concept	7087,7090	ano
+493	Action	7107,7115	expulsan
+494	Concept	7120,7125	heces
+495	Action	7133,7135	va
+496	Concept	7151,7159	arritmia
+497	Reference	7160,7162	es
+498	Reference	7170,7175	puede
+499	Action	7184,7192	necesite
+500	Concept	7196,7206	marcapasos
+501	Concept	7196,7215	marcapasos cardíaco
+502	Concept	7221,7234	desfibrilador
+503	Concept	7221,7246	desfibrilador implantable
+504	Concept	7251,7260	hepatitis
+505	Action	7276,7282	mejora
+506	Concept	7287,7294	sí sola
+507	Concept	7311,7316	meses
+508	Concept	7321,7327	olfato
+509	Action	7332,7339	permite
+510	Action	7340,7349	disfrutar
+511	Concept	7354,7362	esencias
+512	Concept	7386,7391	rosas
+513	Action	7416,7420	toma
+514	Concept	7439,7448	bacterias
+515	Concept	7439,7458	bacterias sensibles
+516	Action	7459,7465	mueren
+517	Concept	7472,7477	causa
+518	Concept	7485,7496	vaporizador
+519	Concept	7485,7505	vaporizador caliente
+520	Concept	7509,7516	líquido
+521	Concept	7541,7548	mayoría
+522	Concept	7556,7561	tipos
+523	Concept	7565,7573	artritis
+524	Action	7574,7580	causan
+525	Concept	7581,7586	dolor
+526	Concept	7625,7631	cáncer
+527	Concept	7639,7645	ductos
+528	Concept	7639,7654	ductos biliares
+529	Reference	7652,7654	es
+530	Reference	7670,7672	Es
+531	Action	7710,7715	cause
+532	Concept	7716,7724	síntomas
+533	Reference	7733,7737	sean
+534	Action	7763,7768	evite
+535	Concept	7769,7774	latas
+536	Reference	7779,7784	estén
+537	Action	7809,7815	tengan
+538	Concept	7816,7823	grietas
+539	Concept	7826,7831	tapas
+540	Concept	7826,7839	tapas sueltas
+541	Concept	7845,7855	endoscopía
+542	Reference	7856,7858	es
+543	Concept	7862,7875	procedimiento
+544	Action	7880,7887	permite
+545	Concept	7895,7901	médico
+546	Action	7902,7905	vea
+547	Concept	7909,7917	interior
+548	Concept	7924,7930	cuerpo
+549	Concept	7935,7946	crecimiento
+550	Concept	7949,7959	desarrollo
+551	Concept	7949,7970	desarrollo importante
+552	Concept	7975,7979	bebé
+553	Action	7980,7986	ocurre
+554	Concept	8034,8039	meses
+555	Reference	8056,8061	puede
+556	Reference	8062,8065	ser
+557	Concept	8069,8076	momento
+558	Concept	8091,8097	padres
+559	Action	8113,8124	identifican
+560	Concept	8125,8135	trastornos
+561	Concept	8140,8151	aprendizaje
+562	Concept	8154,8163	problemas
+563	Concept	8170,8178	conducta
+564	Concept	8198,8205	infecta
+565	Concept	8218,8223	mitad
+566	Concept	8230,8239	población
+567	Concept	8276,8283	médicos
+568	Action	8284,8288	usan
+569	Concept	8293,8300	pruebas
+570	Action	8322,8330	observar
+571	Concept	8334,8338	feto
+572	Concept	8343,8350	alcohol
+573	Reference	8351,8356	puede
+574	Action	8357,8362	dañar
+575	Concept	8368,8372	bebé
+576	Concept	8386,8391	etapa
+577	Concept	8396,8404	embarazo
+578	Action	8406,8415	inclusive
+579	Concept	8429,8434	meses
+580	Concept	8507,8512	bebés
+581	Action	8535,8539	nace
+582	Concept	8547,8554	defecto
+583	Concept	8547,8564	defecto congénito
+584	Concept	8569,8579	enfermedad
+585	Reference	8595,8597	es
+586	Concept	8615,8620	niños
+587	Reference	8622,8624	Es
+588	Action	8636,8641	tener
+589	Concept	8645,8653	botiquín
+590	Concept	8666,8674	auxilios
+591	Concept	8666,8685	auxilios disponible
+592	Concept	8690,8697	terapia
+593	Concept	8690,8706	terapia dirigida
+594	Predicate	8698,8706	dirigida
+595	Action	8707,8710	usa
+596	Concept	8711,8721	sustancias
+597	Action	8726,8732	atacan
+598	Concept	8737,8744	células
+599	Concept	8749,8755	cáncer
+600	Action	8760,8765	dañar
+601	Concept	8737,8744	células
+602	Concept	8737,8786	células normales
+603	Concept	8791,8798	presión
+604	Concept	8791,8807	presión arterial
+605	Predicate	8814,8821	llamada
+606	Concept	8830,8842	hipertensión
+607	Action	8860,8868	presenta
+608	Concept	8869,8877	síntomas
+609	Concept	8883,8892	problemas
+610	Concept	8900,8907	sistema
+611	Concept	8900,8920	sistema nasolagrimal
+612	Action	8921,8929	incluyen
+613	Concept	8933,8943	producción
+614	Concept	8947,8957	demasiadas
+615	Concept	8883,8892	problemas
+616	Concept	8998,9007	conductos
+617	Concept	8998,9018	conductos lagrimales
+618	Concept	9023,9030	consumo
+619	Concept	9035,9041	tabaco
+620	Reference	9042,9044	es
+621	Concept	9058,9063	causa
+622	Concept	9067,9073	muerte
+623	Concept	9067,9084	muerte prevenible
+624	Concept	9090,9098	personas
+625	Concept	9103,9110	delirio
+626	Action	9143,9152	recuperan
+627	Concept	9184,9194	enfermedad
+628	Concept	9184,9205	enfermedad subyacente
+629	Reference	9206,9209	sea
+630	Action	9210,9217	tratada
+631	Action	9222,9227	tiene
+632	Concept	9228,9238	enfermedad
+633	Concept	9246,9253	riñones
+634	Concept	9258,9263	nivel
+635	Concept	9267,9277	creatinina
+636	Concept	9284,9290	sangre
+637	Action	9291,9298	aumenta
+638	Action	9305,9311	ocurre
+639	Concept	9323,9332	sustancia
+640	Concept	9323,9340	sustancia llamada
+641	Concept	9341,9346	placa
+642	Action	9350,9357	acumula
+643	Action	9378,9384	llevan
+644	Concept	9388,9394	sangre
+645	Action	9407,9417	reduciendo
+646	Concept	9421,9426	flujo
+647	Concept	9421,9436	flujo sanguíneo
+648	Concept	9455,9460	tests
+649	Reference	9461,9464	son
+650	Concept	9488,9495	mujeres
+651	Concept	9502,9510	exámenes
+652	Action	9516,9524	detectar
+653	Concept	9525,9533	diabetes
+654	Concept	9525,9545	diabetes gestacional
+655	Concept	9547,9555	síndrome
+656	Concept	9559,9563	Down
+657	Reference	9578,9584	pueden
+658	Action	9585,9590	tener
+659	Concept	9612,9621	problemas
+660	Action	9626,9632	tienen
+661	Concept	9637,9646	fumadores
+662	Action	9654,9662	producen
+663	Concept	9663,9669	saliva
+664	Action	9701,9709	segregan
+665	Concept	9736,9745	aberturas
+666	Concept	9736,9754	aberturas llamadas
+667	Predicate	9746,9754	llamadas
+668	Concept	9766,9773	sistema
+669	Concept	9766,9783	sistema digestivo
+670	Action	9784,9793	convierte
+671	Concept	9800,9808	hidratos
+672	Concept	9812,9819	carbono
+673	Concept	9823,9830	glucosa
+674	Concept	9861,9868	mujeres
+675	Action	9872,9879	someten
+676	Concept	9885,9899	reconstrucción
+677	Concept	9904,9908	seno
+678	Action	9915,9926	reconstruir
+679	Concept	9904,9908	seno
+680	Concept	9966,9972	estado
+681	Concept	9976,9980	coma
+682	Concept	9986,9989	vez
+683	Action	9990,9994	dura
+684	Concept	10021,10033	enfermedades
+685	Concept	10038,10045	corazón
+686	Concept	10047,10056	cardíacas
+687	Reference	10058,10061	son
+688	Concept	10075,10080	causa
+689	Concept	10084,10090	muerte
+690	Concept	10075,10080	causa
+691	Concept	10075,10143	causa importante
+692	Concept	10147,10159	discapacidad
+693	Concept	10164,10171	control
+694	Concept	10179,10187	roedores
+695	Reference	10185,10187	es
+696	Concept	10230,10235	forma
+697	Concept	10241,10251	protegerse
+698	Concept	10259,10268	infección
+699	Concept	10286,10293	mayoría
+700	Concept	10301,10308	mujeres
+701	Concept	10301,10320	mujeres embarazadas
+702	Action	10346,10351	toman
+703	Concept	10352,10364	medicamentos
+704	Concept	10340,10345	bebés
+705	Action	10419,10427	contraen
+706	Concept	10439,10450	tratamiento
+707	Action	10451,10458	incluye
+708	Concept	10459,10466	cirugía
+709	Action	10509,10519	encuentran
+710	Reference	10538,10544	pueden
+711	Reference	10554,10557	ser
+712	Concept	10558,10564	obvios
+713	Reference	10538,10544	pueden
+714	Action	10574,10582	lesionar
+715	Concept	10583,10590	órganos
+716	Action	10616,10624	pulmones
+717	Concept	10637,10644	consumo
+718	Concept	10648,10655	alcohol
+719	Reference	10656,10661	puede
+720	Action	10662,10668	causar
+721	Concept	10669,10678	problemas
+722	Concept	10695,10702	trabajo
+723	Concept	10729,10735	manera
+724	Concept	10739,10747	evitarlo
+725	Action	10756,10767	envejecemos
+726	Concept	10778,10785	cuerpos
+727	Action	10795,10802	cambian
+728	Concept	10808,10812	idas
+729	Concept	10816,10820	baño
+730	Concept	10825,10835	resultados
+731	Concept	10825,10844	resultados exitosos
+732	Reference	10845,10853	deberían
+733	Action	10854,10867	recompensarse
+734	Concept	10873,10884	infecciones
+735	Reference	10893,10896	son
+736	Concept	10873,10884	infecciones
+737	Concept	10916,10927	transmisión
+738	Concept	10916,10934	transmisión sexual
+739	Predicate	10939,10946	comunes
+740	Concept	10973,10982	proveedor
+741	Concept	10986,10991	salud
+742	Concept	10986,11003	salud diagnostica
+743	Concept	11004,11010	cáncer
+744	Concept	11014,11019	vulva
+745	Concept	11027,11033	examen
+746	Concept	11027,11040	examen físico
+747	Concept	11060,11066	crisis
+748	Concept	11071,11079	cálculos
+749	Action	11126,11132	expone
+750	Concept	11143,11148	rayos
+751	Action	11151,11158	aumenta
+752	Concept	11162,11168	riesgo
+753	Concept	11172,11181	problemas
+754	Concept	11185,11190	salud
+755	Concept	11196,11204	melanoma
+756	Concept	11213,11218	tipos
+757	Concept	11222,11228	cáncer
+758	Concept	11232,11236	piel
+759	Concept	11242,11251	quemadura
+760	Reference	11252,11254	es
+761	Concept	11259,11265	lesión
+762	Concept	11273,11280	tejidos
+763	Concept	11285,11291	cuerpo
+764	Concept	11285,11299	cuerpo causada
+765	Predicate	11292,11299	causada
+766	Concept	11307,11312	calor
+767	Concept	11314,11324	sustancias
+768	Concept	11314,11333	sustancias químicas
+769	Action	11335,11347	electricidad
+770	Action	11352,11355	sol
+771	Concept	11372,11383	mesotelioma
+772	Reference	11373,11375	es
+773	Concept	11390,11395	tumor
+774	Concept	11403,11409	tejido
+775	Action	11416,11425	significa
+776	Concept	11426,11434	síndrome
+777	Concept	11438,11455	inmunodeficiencia
+778	Concept	11438,11465	inmunodeficiencia adquirida
+779	Concept	11471,11480	cataratas
+780	Reference	11481,11484	son
+781	Concept	11504,11512	personas
+782	Concept	11504,11520	personas mayores
+783	Concept	11525,11536	tratamiento
+784	Concept	11541,11549	vitiligo
+785	Action	11550,11557	incluye
+786	Concept	11558,11567	medicinas
+787	Concept	11569,11580	fototerapia
+788	Concept	11595,11600	clave
+789	Action	11606,11612	perder
+790	Concept	11613,11617	peso
+791	Action	11621,11627	quemar
+792	Concept	11632,11640	calorías
+793	Action	11659,11663	bebe
+794	Concept	11665,11673	Alergias
+795	Concept	11675,11684	problemas
+796	Concept	11675,11692	problemas nasales
+797	Concept	11703,11715	enfermedades
+798	Reference	11724,11730	pueden
+799	Action	11731,11737	causar
+800	Concept	11738,11747	sinusitis
+801	Concept	11738,11753	sinusitis aguda
+802	Predicate	11748,11753	aguda
+803	Concept	11770,11777	conecta
+804	Concept	11781,11786	parte
+805	Concept	11781,11796	parte posterior
+806	Concept	11805,11808	ojo
+807	Action	11813,11819	retina
+808	Concept	11824,11831	cerebro
+809	Concept	11836,11846	tartamudez
+810	Reference	11847,11852	puede
+811	Action	11853,11860	afectar
+812	Concept	11873,11880	persona
+813	Concept	11888,11896	estudios
+814	Action	11897,11908	demostraron
+815	Concept	11916,11921	dieta
+816	Action	11927,11931	baja
+817	Concept	11935,11942	presión
+818	Concept	11935,11951	presión arterial
+819	Action	11954,11960	mejora
+820	Concept	11965,11972	niveles
+821	Concept	11976,11986	colesterol
+822	Concept	11993,12000	período
+823	Concept	12009,12014	meses
+824	Concept	12019,12027	embarazo
+825	Reference	12006,12008	es
+826	Concept	12053,12063	evacuación
+827	Concept	12071,12076	heces
+828	Reference	12074,12076	es
+829	Concept	12090,12094	paso
+830	Concept	12101,12107	comida
+831	Concept	12114,12120	camino
+832	Concept	12128,12134	tracto
+833	Concept	12128,12144	tracto digestivo
+834	Concept	12173,12177	base
+835	Concept	12179,12184	causa
+836	Concept	12185,12189	daño
+837	Concept	12195,12199	piel
+838	Action	12205,12213	previene
+839	Concept	12218,12228	quemaduras
+840	Concept	12218,12236	quemaduras solares
+841	Concept	12242,12248	signos
+842	Concept	12242,12259	signos prematuros
+843	Concept	12263,12272	parálisis
+844	Concept	12263,12281	parálisis cerebral
+845	Reference	12282,12288	suelen
+846	Action	12289,12297	aparecer
+847	Concept	12313,12317	años
+848	Concept	12321,12325	edad
+849	Concept	12336,12342	signos
+850	Concept	12346,12354	maltrato
+851	Concept	12357,12365	personas
+852	Concept	12357,12373	personas mayores
+853	Action	12374,12382	incluyen
+854	Concept	12383,12392	moretones
+855	Concept	12383,12406	moretones inexplicables
+856	Concept	12434,12441	función
+857	Concept	12434,12451	función principal
+858	Action	12455,12462	filtrar
+859	Concept	12466,12472	sangre
+860	Action	12477,12483	existe
+861	Concept	12488,12492	cura
+862	Concept	12514,12523	medicinas
+863	Reference	12524,12530	pueden
+864	Action	12531,12536	hacer
+865	Concept	12550,12557	proceso
+866	Action	12569,12578	controlar
+867	Concept	12583,12591	síntomas
+868	Reference	12605,12607	es
+869	Concept	12611,12617	nombre
+870	Concept	12624,12629	grupo
+871	Concept	12633,12642	bacterias
+872	Reference	12647,12653	pueden
+873	Action	12654,12660	causar
+874	Concept	12672,12677	tipos
+875	Concept	12681,12693	enfermedades
+876	Action	12698,12708	involucran
+877	Concept	12712,12723	respiración
+878	Action	12729,12735	huesos
+879	Action	12741,12755	articulaciones
+880	Concept	12761,12768	sistema
+881	Concept	12761,12777	sistema nervioso
+882	Reference	12784,12789	puede
+883	Action	12790,12800	interferir
+884	Concept	12809,12820	actividades
+885	Concept	12809,12831	actividades cotidianas
+886	Concept	12837,12845	estudios
+887	Concept	12850,12858	imágenes
+888	Action	12863,12871	muestran
+889	Concept	12875,12884	intestino
+890	Concept	12875,12892	intestino delgado
+891	Action	12910,12915	rodea
+892	Reference	12916,12922	pueden
+893	Action	12923,12929	ayudar
+894	Action	12932,12944	diagnosticar
+895	Concept	12948,12954	cáncer
+896	Concept	12875,12884	intestino
+897	Reference	12970,12977	revelar
+898	Action	12984,12992	diseminó
+899	Concept	13002,13010	lesiones
+900	Reference	13011,13017	pueden
+901	Action	13018,13024	causar
+902	Concept	13025,13035	trastornos
+903	Concept	13042,13050	glándula
+904	Concept	13042,13061	glándula pituitaria
+905	Concept	13018,13023	causa
+906	Predicate	13081,13086	común
+907	Reference	13003,13005	es
+908	Concept	13093,13098	tumor
+909	Concept	13104,13111	dientes
+910	Concept	13104,13123	dientes permanentes
+911	Reference	13133,13139	pueden
+912	Action	13140,13146	ayudar
+913	Action	13149,13157	prevenir
+914	Concept	13158,13167	problemas
+915	Concept	13158,13176	problemas dentales
+916	Concept	13195,13206	mamografías
+917	Action	13207,13215	utilizan
+918	Concept	13216,13221	rayos
+919	Action	13229,13237	detectar
+920	Concept	13241,13247	cáncer
+921	Concept	13251,13255	mama
+922	Action	13260,13266	padece
+923	Concept	13270,13280	enfermedad
+924	Concept	13288,13296	arterias
+925	Concept	13288,13307	arterias coronarias
+926	Concept	13288,13296	arterias
+927	Concept	13328,13335	corazón
+928	Reference	13336,13341	están
+929	Concept	13372,13380	material
+930	Concept	13381,13397	pegajoso llamado
+931	Concept	13398,13403	placa
+932	Reference	13413,13418	puede
+933	Action	13419,13425	causar
+934	Concept	13426,13438	microcefalia
+935	Concept	13443,13450	defecto
+936	Concept	13454,13464	nacimiento
+937	Concept	13454,13470	nacimiento serio
+938	Concept	13485,13491	cabeza
+939	Concept	13499,13506	persona
+940	Reference	13507,13509	es
+941	Predicate	13520,13527	pequeña
+942	Concept	13550,13559	problemas
+943	Concept	13563,13568	bebés
+944	Concept	13575,13581	madres
+945	Reference	13582,13588	fueron
+946	Action	13589,13599	infectadas
+947	Reference	13600,13607	estando
+948	Concept	13625,13637	enfermedades
+949	Concept	13644,13650	retina
+950	Action	13651,13658	afectan
+951	Concept	13675,13681	tejido
+952	Concept	13687,13695	síntomas
+953	Reference	13696,13702	pueden
+954	Action	13703,13710	incluir
+955	Concept	13711,13720	temblores
+956	Concept	13722,13731	problemas
+957	Concept	13738,13741	voz
+958	Action	13744,13753	arrastrar
+959	Concept	13757,13760	pie
+960	Concept	13765,13771	lengua
+961	Concept	13772,13777	ayuda
+962	Action	13780,13788	saborear
+963	Concept	13792,13798	comida
+964	Action	13802,13808	tragar
+965	Action	13813,13821	masticar
+966	Action	13826,13833	realiza
+967	Action	13839,13845	tratar
+968	Action	13853,13861	prevenir
+969	Concept	13865,13871	cáncer
+970	Concept	13875,13879	seno
+971	Action	13887,13893	conoce
+972	Concept	13897,13902	causa
+973	Reference	13919,13925	pueden
+974	Action	13926,13933	afectar
+975	Concept	13964,13975	inyecciones
+976	Concept	13984,13991	alergia
+977	Reference	13992,13998	pueden
+978	Action	13999,14006	hacerlo
+979	Concept	14025,14030	polen
+980	Action	14033,14040	brindar
+981	Concept	14041,14047	alivio
+982	Concept	14056,14061	plazo
+983	Concept	14066,14072	doctor
+984	Action	14073,14086	diagnosticará
+985	Concept	14090,14112	endocarditis basándose
+986	Concept	14120,14128	factores
+987	Concept	14132,14138	riesgo
+988	Concept	14140,14148	historia
+989	Concept	14140,14156	historia clínica
+990	Action	14158,14166	síntomas
+991	Concept	14169,14177	exámenes
+992	Concept	14182,14189	corazón
+993	Concept	14211,14218	injerto
+994	Action	14219,14223	óseo
+995	Action	14224,14234	trasplanta
+996	Concept	14235,14242	tejidos
+997	Concept	14250,14256	huesos
+998	Concept	14281,14292	infecciones
+999	Concept	14297,14303	hongos
+1000	Reference	14316,14322	suelen
+1001	Action	14323,14331	comenzar
+1002	Concept	14366,14374	personas
+1003	Concept	14379,14391	enfermedades
+1004	Concept	14379,14402	enfermedades pulmonares
+1005	Action	14403,14409	tienen
+1006	Concept	14410,14420	dificultad
+1007	Action	14426,14434	respirar
+1008	Concept	14440,14446	piojos
+1009	Action	14450,14458	propagan
+1010	Concept	14462,14469	persona
+1011	Concept	14462,14469	persona
+1012	Concept	14484,14492	contacto
+1013	Concept	14484,14500	contacto cercano
+1014	Action	14505,14510	tiene
+1015	Concept	14514,14523	trastorno
+1016	Concept	14528,14538	movimiento
+1017	Action	14546,14557	experimenta
+1018	Concept	14564,14569	tipos
+1019	Concept	14573,14585	alteraciones
+1020	Concept	14590,14595	dolor
+1021	Concept	14599,14606	espalda
+1022	Reference	14599,14601	es
+1023	Concept	14621,14630	problemas
+1024	Concept	14621,14638	problemas médicos
+1025	Predicate	14643,14650	comunes
+1026	Action	14653,14659	afecta
+1027	Concept	14678,14686	personas
+1028	Concept	14696,14703	momento
+1029	Concept	14711,14716	vidas
+1030	Concept	14726,14731	genes
+1031	Reference	14732,14738	pueden
+1032	Action	14739,14744	hacer
+1033	Concept	14751,14759	personas
+1034	Predicate	14764,14773	propensas
+1035	Concept	14798,14804	vacuna
+1036	Reference	14805,14810	puede
+1037	Action	14811,14819	prevenir
+1038	Concept	14824,14835	infecciones
+1039	Concept	14824,14850	infecciones meningocócicas
+1040	Concept	14856,14865	picaduras
+1041	Concept	14869,14878	mosquitos
+1042	Action	14892,14898	causan
+1043	Action	14899,14906	picazón
+1044	Concept	14911,14918	desmayo
+1045	Reference	14912,14914	es
+1046	Concept	14938,14945	pérdida
+1047	Concept	14938,14954	pérdida temporal
+1048	Concept	14961,14971	conciencia
+1049	Action	14978,14985	incluye
+1050	Concept	14986,14997	alcoholismo
+1051	Concept	15000,15005	abuso
+1052	Concept	14986,14993	alcohol
+1053	Reference	15030,15035	puede
+1054	Action	15036,15041	tener
+1055	Reference	15059,15061	es
+1056	Concept	15082,15087	niños
+1057	Reference	15059,15061	es
+1058	Concept	15142,15148	causas
+1059	Concept	15156,15167	hemorragias
+1060	Concept	15156,15177	hemorragias anormales
+1061	Action	15178,15186	incluyen
+1062	Concept	15187,15195	hormonas
+1063	Concept	15197,15206	problemas
+1064	Concept	15197,15216	problemas tiroideos
+1065	Predicate	15207,15216	tiroideos
+1066	Concept	15218,15226	fibromas
+1067	Concept	15228,15235	pólipos
+1068	Concept	15237,15243	cáncer
+1069	Concept	15245,15256	infecciones
+1070	Concept	15272,15279	persona
+1071	Reference	15284,15288	está
+1072	Action	15289,15298	sufriendo
+1073	Concept	15302,15306	paro
+1074	Reference	15307,15314	debería
+1075	Action	15315,15322	recibir
+1076	Concept	15323,15335	resucitación
+1077	Action	15336,15350	cardiopulmonar
+1078	Concept	15370,15384	desfibrilación
+1079	Reference	15385,15389	esté
+1080	Concept	15405,15416	tratamiento
+1081	Reference	15417,15419	es
+1082	Concept	15441,15455	deshidratación
+1083	Reference	15442,15444	es
+1084	Concept	15472,15477	bebés
+1085	Concept	15479,15484	niños
+1086	Concept	15479,15493	niños pequeños
+1087	Action	15495,15503	ancianos
+1088	Concept	15506,15514	personas
+1089	Concept	15522,15529	sistema
+1090	Concept	15522,15541	sistema inmunitario
+1091	Concept	15553,15564	anticuerpos
+1092	Reference	15565,15568	son
+1093	Concept	15569,15578	proteínas
+1094	Concept	15585,15591	sangre
+1095	Concept	15599,15606	sistema
+1096	Concept	15599,15618	sistema inmunitario
+1097	Action	15619,15626	produce
+1098	Concept	15630,15639	respuesta
+1099	Concept	15643,15648	virus
+1100	Concept	15653,15658	ozono
+1101	Action	15669,15678	encuentra
+1102	Concept	15682,15687	nivel
+1103	Concept	15692,15697	suelo
+1104	Concept	15703,15712	violación
+1105	Reference	15713,15715	es
+1106	Concept	15726,15735	actividad
+1107	Concept	15726,15742	actividad sexual
+1108	Reference	15762,15764	ha
+1109	Action	15765,15769	dado
+1110	Concept	15773,15785	autorización
+1111	Reference	15808,15810	es
+1112	Concept	15830,15839	organismo
+1113	Action	15840,15848	necesita
+1114	Concept	15849,15858	proteínas
+1115	Concept	15866,15875	alimentos
+1116	Action	15880,15889	ingerimos
+1117	Action	15895,15905	fortalecer
+1118	Action	15908,15916	mantener
+1119	Concept	15921,15927	huesos
+1120	Action	15933,15941	músculos
+1121	Concept	15956,15963	potasio
+1122	Reference	15964,15966	es
+1123	Concept	15970,15977	mineral
+1124	Concept	15985,15991	cuerpo
+1125	Action	15992,16000	necesita
+1126	Action	16006,16015	funcionar
+1127	Concept	16033,16044	infecciones
+1128	Action	16050,16058	ampollas
+1129	Reference	16076,16082	pueden
+1130	Reference	16083,16086	ser
+1131	Concept	16093,16099	causas
+1132	Concept	16103,16111	regiones
+1133	Concept	16115,16119	piel
+1134	Predicate	16124,16129	clara
+1135	Reference	16134,16140	pueden
+1136	Action	16141,16149	adquirir
+1137	Action	16154,16159	tocar
+1138	Concept	16166,16173	persona
+1139	Concept	16166,16183	persona infectada
+1140	Predicate	16174,16183	infectada
+1141	Concept	16185,16196	superficies
+1142	Concept	16185,16204	superficies húmedas
+1143	Predicate	16197,16204	húmedas
+1144	Concept	16210,16215	pisos
+1145	Concept	16219,16225	duchas
+1146	Concept	16243,16250	mascota
+1147	Concept	16255,16267	intolerancia
+1148	Concept	16273,16280	lactosa
+1149	Reference	16284,16286	es
+1150	Concept	16290,16296	cuadro
+1151	Concept	16290,16302	cuadro serio
+1152	Concept	16307,16315	insulina
+1153	Reference	16316,16318	es
+1154	Concept	16323,16330	hormona
+1155	Action	16335,16340	ayuda
+1156	Concept	16350,16357	glucosa
+1157	Action	16358,16365	penetre
+1158	Concept	16373,16380	células
+1159	Concept	16386,16400	suministrarles
+1160	Concept	16401,16408	energía
+1161	Concept	16413,16424	indigestión
+1162	Reference	16425,16430	puede
+1163	Reference	16431,16434	ser
+1164	Concept	16438,16443	signo
+1165	Concept	16450,16458	problema
+1166	Predicate	16463,16468	serio
+1167	Concept	16473,16484	tratamiento
+1168	Reference	16485,16490	puede
+1169	Action	16491,16498	incluir
+1170	Concept	16513,16524	analgésicos
+1171	Concept	16531,16536	dieta
+1172	Concept	16531,16544	dieta líquida
+1173	Concept	16552,16561	problemas
+1174	Action	16562,16568	causan
+1175	Concept	16573,16584	acumulación
+1176	Concept	16588,16598	sustancias
+1177	Concept	16588,16606	sustancias nocivas
+1178	Concept	16613,16619	cuerpo
+1179	Concept	16627,16636	servicios
+1180	Action	16637,16644	emplean
+1181	Concept	16647,16655	personas
+1182	Predicate	16670,16681	capacitadas
+1183	Concept	16684,16691	centros
+1184	Predicate	16706,16715	equipados
+1185	Concept	16720,16731	polimialgia
+1186	Concept	16720,16741	polimialgia reumática
+1187	Action	16742,16750	responde
+1188	Concept	16763,16774	tratamiento
+1189	Reference	16777,16782	puede
+1190	Action	16783,16794	desaparecer
+1191	Concept	16817,16825	leucemia
+1192	Concept	16826,16843	linfocítica aguda
+1193	Action	16847,16858	diagnostica
+1194	Concept	16863,16870	pruebas
+1195	Concept	16874,16880	sangre
+1196	Concept	16886,16892	médula
+1197	Concept	16886,16897	médula ósea
+1198	Concept	16903,16910	mujeres
+1199	Concept	16915,16922	hombres
+1200	Action	16923,16930	padecen
+1201	Action	16940,16950	reumatoide
+1202	Concept	16956,16969	profesionales
+1203	Concept	16976,16981	salud
+1204	Action	16986,16990	usan
+1205	Action	16996,16999	ver
+1206	Concept	17003,17010	corazón
+1207	Concept	17016,17021	vasos
+1208	Concept	17038,17045	riñones
+1209	Concept	17050,17056	hígado
+1210	Reference	17084,17086	es
+1211	Concept	17090,17096	nombre
+1212	Concept	17103,17108	grupo
+1213	Concept	17112,17121	bacterias
+1214	Concept	17132,17137	tipos
+1215	Concept	17141,17147	piojos
+1216	Action	17152,17157	viven
+1217	Reference	17173,17176	son
+1218	Concept	17190,17196	cabeza
+1219	Predicate	17141,17147	piojos
+1220	Concept	17209,17215	cuerpo
+1221	Concept	17141,17147	piojos
+1222	Concept	17141,17241	piojos púbicos
+1223	Concept	17254,17259	niños
+1224	Concept	17254,17267	niños menores
+1225	Concept	17277,17281	años
+1226	Concept	17285,17289	edad
+1227	Reference	17290,17295	deben
+1228	Reference	17296,17299	ser
+1229	Action	17300,17309	vacunados
+1230	Concept	17329,17338	Productos
+1231	Concept	17344,17350	champú
+1232	Action	17351,17360	anticaspa
+1233	Concept	17362,17367	pasta
+1234	Concept	17371,17378	dientes
+1235	Concept	17383,17388	flúor
+1236	Reference	17420,17423	son
+1237	Concept	17446,17458	medicamentos
+1238	Concept	17463,17475	articulación
+1239	Concept	17480,17486	hombro
+1240	Action	17490,17497	compone
+1241	Concept	17506,17512	huesos
+1242	Action	17517,17526	clavícula
+1243	Action	17531,17539	omóplato
+1244	Action	17569,17573	tipo
+1245	Concept	17594,17600	cuerpo
+1246	Action	17604,17611	produce
+1247	Action	17617,17620	usa
+1248	Concept	17629,17637	insulina
+1249	Action	17647,17652	llama
+1250	Concept	17653,17661	fibrosis
+1251	Action	17662,17670	pulmonar
+1252	Concept	17662,17681	pulmonar idiopática
+1253	Action	17683,17688	Tener
+1254	Reference	17698,17703	puede
+1255	Action	17704,17709	hacer
+1256	Concept	17718,17729	infecciones
+1257	Reference	17730,17734	sean
+1258	Action	17752,17758	tratar
+1259	Concept	17764,17772	síntomas
+1260	Concept	17780,17786	lesión
+1261	Concept	17780,17795	lesión cerebral
+1262	Reference	17807,17813	pueden
+1263	Action	17817,17825	aparecer
+1264	Concept	17872,17880	clamidia
+1265	Concept	17892,17897	recto
+1266	Reference	17898,17903	puede
+1267	Action	17904,17910	causar
+1268	Concept	17911,17916	dolor
+1269	Concept	17911,17923	dolor rectal
+1270	Concept	17990,17997	mayoría
+1271	Concept	18005,18013	personas
+1272	Concept	18018,18024	cáncer
+1273	Action	18026,18031	vivir
+1274	Reference	18050,18052	es
+1275	Concept	18056,18063	desafío
+1276	Predicate	18068,18074	grande
+1277	Reference	18085,18088	han
+1278	Action	18089,18099	enfrentado
+1279	Action	18114,18119	tiene
+1280	Concept	18120,18129	problemas
+1281	Action	18135,18143	respirar
+1282	Action	18148,18154	cuesta
+1283	Reference	18136,18138	es
+1284	Action	18169,18176	obtener
+1285	Concept	18180,18187	oxígeno
+1286	Action	18192,18200	necesita
+1287	Concept	18205,18212	terapia
+1288	Concept	18205,18221	terapia dirigida
+1289	Reference	18222,18224	es
+1290	Concept	18228,18232	tipo
+1291	Concept	18236,18247	tratamiento
+1292	Action	18261,18269	utilizan
+1293	Concept	18270,18280	sustancias
+1294	Action	18286,18297	identificar
+1295	Action	18300,18306	atacar
+1296	Concept	18307,18314	células
+1297	Concept	18307,18325	células cancerosas
+1298	Predicate	18315,18325	cancerosas
+1299	Concept	18315,18337	cancerosas específicas
+1300	Action	18342,18347	dañar
+1301	Concept	18307,18314	células
+1302	Concept	18307,18368	células normales
+1303	Concept	18373,18378	ozono
+1304	Action	18390,18399	encuentra
+1305	Concept	18443,18449	millas
+1306	Concept	18459,18469	superficie
+1307	Concept	18459,18479	superficie terrestre
+1308	Concept	18485,18492	médicos
+1309	Action	18493,18505	diagnostican
+1310	Concept	18509,18516	pénfigo
+1311	Concept	18532,18538	examen
+1312	Concept	18532,18545	examen físico
+1313	Action	18551,18558	biopsia
+1314	Concept	18561,18568	pruebas
+1315	Concept	18572,18578	sangre
+1316	Reference	18584,18589	puede
+1317	Action	18590,18597	afectar
+1318	Concept	18601,18610	capacidad
+1319	Action	18616,18623	caminar
+1320	Action	18625,18631	gatear
+1321	Action	18633,18641	respirar
+1322	Action	18643,18649	tragar
+1323	Action	18652,18661	controlar
+1324	Concept	18665,18671	cabeza
+1325	Concept	18689,18695	causas
+1326	Concept	18700,18707	delirio
+1327	Action	18708,18716	incluyen
+1328	Concept	18717,18729	medicamentos
+1329	Concept	18762,18773	infecciones
+1330	Concept	18762,18780	infecciones graves
+1331	Concept	18783,18788	dolor
+1332	Concept	18783,18796	dolor intenso
+1333	Action	18798,18806	Prevenir
+1334	Concept	18807,18816	incendios
+1335	Reference	18817,18819	es
+1336	Concept	18824,18829	parte
+1337	Concept	18824,18840	parte importante
+1338	Concept	18847,18856	seguridad
+1339	Concept	18807,18816	incendios
+1340	Action	18939,18947	publican
+1341	Concept	18951,18961	calendario
+1342	Concept	18965,18975	vacunación
+1343	Concept	18965,18984	vacunación infantil
+1344	Action	18995,19000	tiene
+1345	Concept	19001,19009	diabetes
+1346	Concept	19015,19022	niveles
+1347	Concept	19026,19032	azúcar
+1348	Concept	19051,19057	sangre
+1349	Reference	19058,19061	son
+1350	Action	19079,19086	Utiliza
+1351	Concept	19087,19092	ondas
+1352	Concept	19087,19100	ondas sonoras
+1353	Concept	19109,19119	frecuencia
+1354	Action	19125,19133	observar
+1355	Concept	19134,19141	órganos
+1356	Concept	19144,19155	estructuras
+1357	Concept	19159,19167	interior
+1358	Concept	19172,19178	cuerpo
+1359	Concept	19184,19189	rayos
+1360	Reference	19194,19200	pueden
+1361	Action	19201,19207	causar
+1362	Concept	19208,19218	quemaduras
+1363	Concept	19222,19225	sol
+1364	Concept	19247,19254	mayoría
+1365	Concept	19262,19267	niños
+1366	Concept	19272,19282	hendiduras
+1367	Concept	19272,19294	hendiduras orofaciales
+1368	Action	19295,19301	tienen
+1369	Concept	19309,19319	resultados
+1370	Concept	19326,19330	vida
+1371	Concept	19326,19340	vida saludable
+1372	Action	19353,19359	ocurre
+1373	Action	19374,19383	desprende
+1374	Concept	19408,19413	hueso
+1375	Concept	19418,19425	tobillo
+1376	Action	19427,19436	astrágalo
+1377	Concept	19443,19450	extremo
+1378	Concept	19443,19459	extremo inferior
+1379	Concept	19471,19477	huesos
+1380	Concept	19484,19490	pierna
+1381	Action	19491,19497	forman
+1382	Concept	19501,19513	articulación
+1383	Concept	19418,19425	tobillo
+1384	Concept	19531,19540	vitaminas
+1385	Reference	19541,19544	son
+1386	Concept	19545,19555	sustancias
+1387	Action	19560,19566	ayudan
+1388	Action	19581,19587	crecer
+1389	Concept	19607,19612	forma
+1390	Concept	19607,19619	forma normal
+1391	Concept	19625,19630	niños
+1392	Concept	19635,19640	hogar
+1393	Action	19641,19647	tienen
+1394	Concept	19654,19661	índices
+1395	Concept	19665,19674	problemas
+1396	Concept	19665,19686	problemas emocionales
+1397	Reference	19721,19726	haber
+1398	Action	19727,19738	presenciado
+1399	Concept	19739,19745	abusos
+1400	Concept	19750,19757	tétanos
+1401	Reference	19758,19760	es
+1402	Concept	19765,19775	enfermedad
+1403	Concept	19765,19781	enfermedad seria
+1404	Predicate	19782,19789	causada
+1405	Concept	19797,19805	bacteria
+1406	Concept	19797,19817	bacteria clostridium
+1407	Concept	19822,19833	tratamiento
+1408	Reference	19834,19839	puede
+1409	Action	19840,19847	incluir
+1410	Concept	19854,19860	tibios
+1411	Concept	19896,19903	medidas
+1412	Concept	19896,19915	medidas preventivas
+1413	Action	19916,19924	incluyen
+1414	Action	19925,19932	lavarse
+1415	Concept	19937,19942	manos
+1416	Concept	19947,19957	frecuencia
+1417	Action	19963,19968	fumar
+1418	Concept	19974,19983	problemas
+1419	Concept	19991,20000	glándulas
+1420	Concept	19991,20010	glándulas salivales
+1421	Reference	20011,20017	pueden
+1422	Action	20057,20062	llama
+1423	Concept	20063,20068	placa
+1424	Reference	20077,20082	puede
+1425	Action	20083,20092	estrechar
+1426	Concept	20097,20105	arterias
+1427	Concept	20132,20137	placa
+1428	Action	20141,20148	acumula
+1429	Action	20176,20182	conoce
+1430	Concept	20211,20221	testículos
+1431	Reference	20222,20228	pueden
+1432	Action	20229,20239	inflamarse
+1433	Concept	20257,20264	cirugía
+1434	Action	20265,20269	crea
+1435	Concept	20279,20285	camino
+1436	Concept	20298,20304	sangre
+1437	Action	20305,20311	llegue
+1438	Concept	20330,20338	factores
+1439	Action	20339,20350	incrementan
+1440	Concept	20370,20383	posibilidades
+1441	Action	20387,20392	tener
+1442	Concept	20403,20407	bebé
+1443	Concept	20412,20418	médico
+1444	Action	20422,20427	mueve
+1445	Concept	20451,20459	apertura
+1446	Concept	20464,20470	cuerpo
+1447	Action	20476,20479	ver
+1448	Concept	20483,20491	interior
+1449	Concept	20498,20504	órgano
+1450	Concept	20510,20515	genes
+1451	Reference	20516,20519	son
+1452	Concept	20524,20533	ladrillos
+1453	Concept	20540,20548	herencia
+1454	Concept	20554,20561	persona
+1455	Concept	20566,20577	diagnóstico
+1456	Concept	20566,20583	diagnóstico doble
+1457	Action	20584,20589	tiene
+1458	Concept	20593,20601	problema
+1459	Concept	20593,20608	problema mental
+1460	Predicate	20602,20608	mental
+1461	Concept	20651,20655	crup
+1462	Reference	20656,20658	es
+1463	Concept	20663,20674	inflamación
+1464	Concept	20682,20689	cuerdas
+1465	Concept	20682,20697	cuerdas vocales
+1466	Concept	20725,20732	colapso
+1467	Action	20733,20741	pulmonar
+1468	Action	20745,20756	diagnostica
+1469	Action	20776,20778	X.
+1470	Concept	20782,20792	enfermedad
+1471	Concept	20810,20819	trastorno
+1472	Action	20820,20830	autoinmune
+1473	Reference	20832,20834	es
+1474	Concept	20838,20843	causa
+1475	Predicate	20848,20853	común
+1476	Action	20855,20860	Comer
+1477	Concept	20864,20870	manera
+1478	Concept	20864,20880	manera nutritiva
+1479	Reference	20884,20886	es
+1480	Reference	20909,20913	está
+1481	Concept	20929,20935	sangre
+1482	Concept	20942,20946	bebé
+1483	Reference	20947,20952	puede
+1484	Action	20953,20958	pasar
+1485	Concept	20964,20972	torrente
+1486	Concept	20964,20982	torrente sanguíneo
+1487	Concept	21006,21011	parto
+1488	Concept	21021,21029	personas
+1489	Action	21030,21036	tienen
+1490	Concept	21045,21051	riesgo
+1491	Concept	21055,21065	aneurismas
+1492	Concept	21071,21083	tratamientos
+1493	Action	21084,21092	incluyen
+1494	Action	21135,21143	extirpar
+1495	Concept	21147,21151	bazo
+1496	Concept	21176,21184	personas
+1497	Action	21189,21196	padecen
+1498	Concept	21197,21209	enfermedades
+1499	Concept	21219,21229	trastornos
+1500	Concept	21219,21239	trastornos hepáticos
+1501	Predicate	21230,21239	hepáticos
+1502	Concept	21241,21249	fibrosis
+1503	Predicate	21250,21258	quística
+1504	Concept	21197,21207	enfermedad
+1505	Reference	21281,21287	pueden
+1506	Action	21288,21297	necesitar
+1507	Concept	21302,21310	vitamina
+1508	Concept	21317,21324	sífilis
+1509	Reference	21325,21327	es
+1510	Concept	21332,21342	enfermedad
+1511	Concept	21346,21357	transmisión
+1512	Concept	21346,21364	transmisión sexual
+1513	Predicate	21365,21372	causada
+1514	Concept	21381,21389	bacteria
+1515	Concept	21394,21403	bronceado
+1516	Concept	21407,21417	interiores
+1517	Reference	21415,21417	es
+1518	Concept	21472,21478	cuerpo
+1519	Action	21479,21487	necesita
+1520	Concept	21496,21506	colesterol
+1521	Action	21512,21521	funcionar
+1522	Concept	21532,21540	personas
+1523	Action	21558,21562	hace
+1524	Concept	21566,21576	trasplante
+1525	Reference	21577,21582	deben
+1526	Action	21583,21588	tomar
+1527	Concept	21589,21601	medicamentos
+1528	Concept	21605,21610	resto
+1529	Concept	21618,21623	vidas
+1530	Reference	21629,21636	impedir
+1531	Concept	21645,21652	cuerpos
+1532	Action	21653,21661	rechacen
+1533	Concept	21665,21673	páncreas
+1534	Concept	21665,21679	páncreas nuevo
+1535	Concept	21684,21694	enfermedad
+1536	Reference	21722,21724	es
+1537	Concept	21684,21694	enfermedad
+1538	Concept	21684,21748	enfermedad genética
+1539	Predicate	21754,21759	común
+1540	Action	21764,21771	provoca
+1541	Concept	21775,21786	crecimiento
+1542	Concept	21790,21797	tumores
+1543	Concept	21814,21820	cuerpo
+1544	Concept	21828,21835	células
+1545	Action	21836,21846	reemplazan
+1546	Concept	21828,21835	células
+1547	Concept	21828,21871	células sanguíneas
+1548	Action	21880,21890	dificultan
+1549	Concept	21898,21904	sangre
+1550	Action	21905,21911	cumpla
+1551	Concept	21915,21922	función
+1552	Concept	21928,21937	calambres
+1553	Concept	21928,21948	calambres musculares
+1554	Reference	21949,21955	pueden
+1555	Reference	21956,21959	ser
+1556	Action	21960,21968	causados
+1557	Concept	21980,21994	funcionamiento
+1558	Concept	22006,22013	nervios
+1559	Action	22023,22028	llama
+1560	Concept	22029,22036	presión
+1561	Concept	22029,22047	presión diastólica
+1562	Reference	22063,22065	es
+1563	Concept	22080,22088	próstata
+1564	Action	22089,22094	rodea
+1565	Concept	22098,22102	tubo
+1566	Action	22107,22112	lleva
+1567	Concept	22116,22121	orina
+1568	Concept	22148,22153	tipos
+1569	Concept	22148,22161	tipos comunes
+1570	Concept	22165,22175	tendinitis
+1571	Reference	22176,22179	son
+1572	Action	22211,22218	aumenta
+1573	Concept	22222,22228	riesgo
+1574	Concept	22232,22240	sufrirla
+1575	Concept	22251,22255	codo
+1576	Concept	22259,22266	tenista
+1577	Concept	22272,22279	mayoría
+1578	Concept	22287,22296	melanomas
+1579	Action	22297,22303	tienen
+1580	Concept	22307,22311	área
+1581	Concept	22307,22317	área negra
+1582	Predicate	22312,22317	negra
+1583	Action	22355,22361	avanza
+1584	Concept	22366,22371	parte
+1585	Concept	22366,22380	parte inferior
+1586	Concept	22388,22395	piernas
+1587	Reference	22396,22401	puede
+1588	Concept	22402,22413	debilitarse
+1589	Concept	22421,22428	medidas
+1590	Reference	22429,22432	son
+1591	Concept	22433,22438	parte
+1592	Concept	22443,22450	control
+1593	Concept	22458,22469	infecciones
+1594	Action	22478,22484	existe
+1595	Concept	22489,22495	hernia
+1596	Concept	22489,22502	hernia hiatal
+1597	Reference	22504,22506	es
+1598	Concept	22524,22529	ácido
+1599	Action	22530,22534	suba
+1600	Concept	22539,22546	mayoría
+1601	Concept	22554,22568	menstruaciones
+1602	Concept	22554,22573	menstruaciones dura
+1603	Concept	22593,22597	días
+1604	Concept	22603,22611	análisis
+1605	Concept	22615,22621	sangre
+1606	Action	22624,22629	orina
+1607	Reference	22630,22633	son
+1608	Concept	22643,22649	manera
+1609	Reference	22653,22658	saber
+1610	Action	22668,22673	tiene
+1611	Concept	22674,22684	enfermedad
+1612	Concept	22674,22690	enfermedad renal
+1613	Concept	22696,22703	células
+1614	Concept	22704,22709	madre
+1615	Action	22710,22716	tienen
+1616	Concept	22720,22729	potencial
+1617	Concept	22733,22744	convertirse
+1618	Concept	22755,22760	tipos
+1619	Concept	22755,22771	tipos diferentes
+1620	Predicate	22761,22771	diferentes
+1621	Concept	22696,22703	células
+1622	Concept	22802,22807	virus
+1623	Action	22811,22819	contagia
+1624	Concept	22824,22832	contacto
+1625	Concept	22824,22839	contacto sexual
+1626	Action	22841,22846	Bajar
+1627	Concept	22850,22854	peso
+1628	Concept	22850,22899	peso actual
+1629	Reference	22901,22906	puede
+1630	Action	22907,22915	prevenir
+1631	Action	22918,22926	retrasar
+1632	Concept	22930,22938	diabetes
+1633	Concept	22953,22964	tratamiento
+1634	Concept	22973,22981	adicción
+1635	Concept	22988,22996	opioides
+1636	Concept	22988,23006	opioides recetados
+1637	Reference	22994,22996	es
+1638	Concept	22953,22964	tratamiento
+1639	Concept	22953,23033	tratamiento asistido
+1640	Predicate	23025,23033	asistido
+1641	Concept	23038,23050	medicamentos
+1642	Concept	23055,23063	obesidad
+1643	Action	23064,23071	aumenta
+1644	Concept	23075,23081	riesgo
+1645	Action	23085,23092	padecer
+1646	Concept	23093,23101	diabetes
+1647	Concept	23103,23115	enfermedades
+1648	Concept	23103,23125	enfermedades cardiacas
+1649	Concept	23127,23135	derrames
+1650	Concept	23127,23146	derrames cerebrales
+1651	Action	23177,23184	Existen
+1652	Concept	23185,23192	vacunas
+1653	Action	23198,23206	prevenir
+1654	Concept	23210,23216	cólera
+1655	Concept	23221,23231	hemorragia
+1656	Concept	23221,23248	hemorragia gastrointestinal
+1657	Reference	23241,23243	es
+1658	Concept	23259,23269	enfermedad
+1659	Concept	23279,23286	síntoma
+1660	Concept	23259,23269	enfermedad
+1661	Action	23315,23320	tiene
+1662	Action	23315,23320	tiene
+1663	Concept	23344,23357	posibilidades
+1664	Action	23361,23367	sufrir
+1665	Concept	23324,23332	diabetes
+1666	Concept	23380,23384	tipo
+1667	Concept	23388,23400	enfermedades
+1668	Concept	23405,23412	corazón
+1669	Concept	23415,23422	derrame
+1670	Concept	23440,23447	persona
+1671	Concept	23461,23468	niveles
+1672	Concept	23472,23480	asbestos
+1673	Reference	23496,23502	pueden
+1674	Action	23503,23513	acumularse
+1675	Action	23532,23538	causar
+1676	Concept	23539,23549	cicatrices
+1677	Reference	23571,23576	puede
+1678	Action	23577,23582	tomar
+1679	Concept	23583,23590	medidas
+1680	Action	23596,23603	mejorar
+1681	Concept	23608,23615	hábitos
+1682	Concept	23619,23624	sueño
+1683	Concept	23639,23648	problemas
+1684	Concept	23655,23662	tráquea
+1685	Action	23663,23671	incluyen
+1686	Concept	23688,23699	inflamación
+1687	Concept	23639,23648	problemas
+1688	Concept	23639,23732	problemas hereditarios
+1689	Action	23737,23742	tiene
+1690	Concept	23747,23757	enfermedad
+1691	Concept	23747,23765	enfermedad uterina
+1692	Concept	23777,23782	signo
+1693	Reference	23783,23788	puede
+1694	Reference	23789,23792	ser
+1695	Concept	23797,23807	hemorragia
+1696	Concept	23818,23832	menstruaciones
+1697	Concept	23850,23860	relaciones
+1698	Concept	23850,23869	relaciones sexuales
+1699	Concept	23888,23893	causa
+1700	Concept	23894,23903	hinchazón
+1701	Concept	23953,23963	conjuntiva
+1702	Concept	23968,23976	membrana
+1703	Concept	23968,23984	membrana delgada
+1704	Predicate	23977,23984	delgada
+1705	Action	24003,24010	recubre
+1706	Concept	24014,24019	parte
+1707	Concept	24014,24026	parte blanca
+1708	Concept	24031,24034	ojo
+1709	Concept	24040,24048	interior
+1710	Concept	24056,24064	párpados
+1711	Concept	24086,24100	complicaciones
+1712	Reference	24080,24082	es
+1713	Concept	24121,24125	bebé
+1714	Action	24126,24134	necesite
+1715	Action	24135,24140	nacer
+1716	Concept	24171,24182	radiografía
+1717	Concept	24186,24191	tórax
+1718	Action	24192,24198	expone
+1719	Concept	24205,24210	dosis
+1720	Concept	24214,24223	radiación
+1721	Concept	24214,24231	radiación similar
+1722	Predicate	24224,24231	similar
+1723	Concept	24237,24245	cantidad
+1724	Reference	24251,24255	está
+1725	Predicate	24269,24277	expuesto
+1726	Concept	24282,24290	ambiente
+1727	Concept	24298,24305	periodo
+1728	Concept	24312,24316	días
+1729	Concept	24337,24342	causa
+1730	Concept	24346,24352	muerte
+1731	Predicate	24357,24362	común
+1732	Reference	24323,24325	es
+1733	Concept	24370,24379	infección
+1734	Concept	24390,24398	neumonía
+1735	Concept	24404,24413	huracanes
+1736	Reference	24414,24420	pueden
+1737	Action	24421,24427	causar
+1738	Concept	24428,24433	daños
+1739	Concept	24428,24443	daños tremendos
+1740	Concept	24448,24459	tratamiento
+1741	Reference	24460,24462	es
+1742	Concept	24485,24493	defectos
+1743	Concept	24485,24504	defectos congénitos
+1744	Reference	24513,24519	pueden
+1745	Action	24520,24527	afectar
+1746	Concept	24531,24535	cara
+1747	Reference	24537,24542	Están
+1748	Concept	24556,24561	capas
+1749	Concept	24569,24577	proteína
+1750	Concept	24569,24588	proteína endurecida
+1751	Predicate	24589,24596	llamada
+1752	Action	24623,24632	encuentra
+1753	Action	24664,24673	encuentra
+1754	Concept	24680,24684	humo
+1755	Concept	24691,24701	combustión
+1756	Reference	24711,24713	es
+1757	Concept	24777,24784	fogones
+1758	Concept	24788,24791	gas
+1759	Concept	24794,24802	sistemas
+1760	Concept	24806,24817	calefacción
+1761	Concept	24822,24829	mayoría
+1762	Concept	24837,24845	personas
+1763	Action	24846,24853	obtiene
+1764	Concept	24857,24864	potasio
+1765	Action	24869,24877	necesita
+1766	Action	24895,24899	bebe
+1767	Concept	24905,24915	erupciones
+1768	Action	24927,24935	aparecen
+1769	Concept	24968,24976	enfisema
+1770	Reference	24977,24979	es
+1771	Concept	24983,24987	tipo
+1772	Concept	24991,25001	enfermedad
+1773	Action	25002,25010	pulmonar
+1774	Concept	25011,25030	obstructiva crónica
+1775	Concept	25051,25059	alveolos
+1776	Concept	25065,25073	bolsitas
+1777	Concept	25077,25081	aire
+1778	Concept	25089,25097	pulmones
+1779	Action	25102,25107	dañan
+1780	Concept	25117,25126	medicinas
+1781	Action	25127,25135	provocan
+1782	Concept	25136,25142	mareos
+1783	Concept	25147,25157	enfermedad
+1784	Action	25169,25175	ocurre
+1785	Concept	25187,25196	glándulas
+1786	Concept	25187,25210	glándulas suprarrenales
+1787	Action	25214,25222	producen
+1788	Concept	25235,25243	hormonas
+1789	Concept	25249,25261	medicamentos
+1790	Reference	25262,25268	pueden
+1791	Action	25269,25275	ayudar
+1792	Concept	25280,25288	síntomas
+1793	Concept	25280,25296	síntomas severos
+1794	Concept	25301,25309	diabetes
+1795	Action	25310,25319	significa
+1796	Concept	25327,25334	glucosa
+1797	Concept	25350,25356	sangre
+1798	Reference	25307,25309	es
+1799	Action	25383,25387	sabe
+1800	Reference	25405,25407	es
+1801	Concept	25411,25416	causa
+1802	Concept	25421,25425	acné
+1803	Concept	25447,25455	personas
+1804	Concept	25465,25473	síndrome
+1805	Action	25474,25480	tienen
+1806	Concept	25487,25495	cánceres
+1807	Concept	25504,25513	problemas
+1808	Concept	25504,25526	problemas relacionados
+1809	Predicate	25514,25526	relacionados
+1810	Concept	25535,25543	hormonas
+1811	Concept	25548,25553	dolor
+1812	Reference	25554,25559	puede
+1813	Action	25560,25568	comenzar
+1814	Action	25617,25624	obtiene
+1815	Concept	25637,25647	nutrientes
+1816	Action	25650,25660	incluyendo
+1817	Concept	25661,25670	proteínas
+1818	Concept	25672,25685	carbohidratos
+1819	Reference	25725,25730	puede
+1820	Action	25731,25737	sufrir
+1821	Concept	25738,25750	desnutrición
+1822	Concept	25756,25764	verrugas
+1823	Reference	25765,25771	pueden
+1824	Action	25772,25783	desaparecer
+1825	Concept	25772,25799	desaparecer espontáneamente
+1826	Concept	25804,25811	mayoría
+1827	Concept	25819,25827	personas
+1828	Action	25828,25834	pierde
+1829	Concept	25835,25840	parte
+1830	Concept	25847,25856	capacidad
+1831	Action	25860,25864	oler
+1832	Action	25867,25875	saborear
+1833	Action	25889,25897	envejece
+1834	Action	25899,25906	Exhibir
+1835	Concept	25911,25918	órganos
+1836	Concept	25911,25928	órganos genitales
+1837	Action	25944,25953	presionar
+1838	Concept	25937,25941	niño
+1839	Action	25966,25971	tener
+1840	Concept	25972,25982	relaciones
+1841	Concept	25972,25991	relaciones sexuales
+1842	Reference	25926,25928	es
+1843	Concept	25996,26001	abuso
+1844	Concept	25996,25989	abuso sexual
+1845	Concept	26032,26040	síntomas
+1846	Action	26041,26049	incluyen
+1847	Concept	26050,26056	fiebre
+1848	Action	26058,26067	debilidad
+1849	Concept	26070,26077	pérdida
+1850	Concept	26081,26085	peso
+1851	Concept	26091,26096	bebés
+1852	Concept	26103,26108	niños
+1853	Concept	26103,26117	niños pequeños
+1854	Action	26126,26135	presentan
+1855	Concept	26136,26143	riesgos
+1856	Concept	26147,26153	caídas
+1857	Concept	26173,26180	muebles
+1858	Concept	26197,26202	causa
+1859	Predicate	26208,26213	común
+1860	Concept	26218,26227	hemotórax
+1861	Reference	26228,26230	es
+1862	Concept	26235,26241	lesión
+1863	Concept	26248,26253	pecho
+1864	Concept	26258,26262	TEPT
+1865	Action	26263,26271	comienza
+1866	Concept	26275,26283	momentos
+1867	Concept	26275,26294	momentos diferentes
+1868	Action	26295,26306	dependiendo
+1869	Concept	26313,26320	persona
+1870	Concept	26325,26329	gota
+1871	Reference	26330,26335	puede
+1872	Reference	26336,26339	ser
+1873	Action	26351,26363	diagnosticar
+1874	Action	26371,26379	incluyen
+1875	Concept	26380,26386	hierro
+1876	Concept	26447,26455	gangrena
+1877	Reference	26456,26458	es
+1878	Concept	26462,26468	muerte
+1879	Concept	26476,26483	tejidos
+1880	Concept	26510,26517	terapia
+1881	Action	26518,26525	utiliza
+1882	Concept	26526,26534	fármacos
+1883	Action	26539,26545	atacan
+1884	Concept	26552,26559	células
+1885	Concept	26552,26570	células cancerosas
+1886	Action	26575,26580	dañar
+1887	Concept	26552,26559	células
+1888	Concept	26552,26600	células sanas
+1889	Reference	26608,26612	debe
+1890	Action	26613,26621	utilizar
+1891	Concept	26622,26627	botox
+1892	Reference	26684,26686	ha
+1893	Action	26687,26697	incrustado
+1894	Concept	26702,26709	astilla
+1895	Action	26712,26716	tuvo
+1896	Concept	26717,26722	arena
+1897	Action	26740,26744	sabe
+1898	Reference	26749,26751	es
+1899	Action	26752,26757	tener
+1900	Concept	26761,26767	objeto
+1901	Concept	26761,26775	objeto extraño
+1902	Concept	26786,26791	parte
+1903	Concept	26798,26804	cuerpo
+1904	Concept	26809,26820	diagnóstico
+1905	Concept	26825,26833	imágenes
+1906	Action	26834,26841	permite
+1907	Concept	26848,26855	médicos
+1908	Action	26856,26864	observar
+1909	Concept	26868,26876	interior
+1910	Concept	26881,26887	cuerpo
+1911	Action	26893,26899	buscar
+1912	Concept	26900,26908	indicios
+1913	Concept	26919,26928	condición
+1914	Concept	26919,26935	condición médica
+1915	Concept	26944,26952	válvulas
+1916	Reference	26953,26958	están
+1917	Concept	26981,26987	sangre
+1918	Reference	26988,26993	puede
+1919	Action	27039,27045	causan
+1920	Concept	27046,27057	infecciones
+1921	Concept	27046,27066	infecciones llamadas
+1922	Predicate	27058,27066	llamadas
+1923	Concept	27046,27057	infecciones
+1924	Concept	27083,27096	micobacterias
+1925	Concept	27083,27105	micobacterias atípicas
+1926	Concept	27111,27122	condiciones
+1927	Action	27127,27133	causan
+1928	Concept	27134,27142	enanismo
+1929	Reference	27151,27157	pueden
+1930	Action	27158,27164	causar
+1931	Concept	27171,27180	problemas
+1932	Concept	27184,27189	salud
+1933	Reference	27221,27224	sea
+1934	Reference	27228,27235	empezar
+1935	Action	27238,27243	fumar
+1936	Concept	27249,27258	problemas
+1937	Reference	27259,27264	puede
+1938	Concept	27279,27291	enfermedades
+1939	Concept	27279,27302	enfermedades hormonales
+1940	Action	27311,27318	ocurren
+1941	Concept	27325,27331	cuerpo
+1942	Action	27335,27343	responde
+1943	Concept	27350,27358	hormonas
+1944	Reference	27364,27371	debería
+1945	Action	27372,27379	hacerlo
+1946	Action	27387,27395	necesita
+1947	Concept	27400,27409	proteínas
+1948	Concept	27428,27433	ácido
+1949	Concept	27428,27440	ácido fólico
+1950	Concept	27468,27476	diabetes
+1951	Concept	27481,27494	insuficiencia
+1952	Concept	27481,27503	insuficiencia cardíaca
+1953	Concept	27509,27518	problemas
+1954	Concept	27509,27532	problemas circulatorios
+1955	Concept	27540,27548	glándula
+1956	Concept	27549,27557	tiroides
+1957	Concept	27564,27571	sistema
+1958	Concept	27564,27580	sistema nervioso
+1959	Action	27589,27596	afectan
+1960	Concept	27600,27610	equilibrio
+1961	Action	27624,27631	observó
+1962	Concept	27635,27641	perros
+1963	Concept	27648,27655	pradera
+1964	Action	27701,27706	tiene
+1965	Concept	27707,27721	probabilidades
+1966	Action	27725,27730	tener
+1967	Concept	27734,27739	nivel
+1968	Concept	27743,27753	colesterol
+1969	Action	27701,27706	tiene
+1970	Concept	27768,27780	antecedentes
+1971	Concept	27768,27791	antecedentes familiares
+1972	Action	27805,27812	consume
+1973	Concept	27820,27827	comidas
+1974	Concept	27820,27836	comidas grasosas
+1975	Concept	27841,27852	tratamiento
+1976	Concept	27860,27869	problemas
+1977	Concept	27877,27884	talones
+1978	Reference	27885,27890	puede
+1979	Action	27891,27898	incluir
+1980	Concept	27907,27916	medicinas
+1981	Concept	27918,27927	ejercicio
+1982	Concept	27929,27932	uso
+1983	Concept	27936,27942	vendas
+1984	Concept	27968,27976	delirium
+1985	Concept	27968,27984	delirium tremens
+1986	Reference	27985,27987	es
+1987	Concept	27991,27995	tipo
+1988	Concept	27991,28001	tipo grave
+1989	Concept	28005,28013	síndrome
+1990	Concept	28017,28028	abstinencia
+1991	Concept	28017,28039	abstinencia alcohólica
+1992	Concept	28044,28055	tratamiento
+1993	Concept	28044,28065	tratamiento principal
+1994	Reference	28066,28068	es
+1995	Concept	28072,28081	inyección
+1996	Concept	28086,28092	factor
+1997	Concept	28096,28107	coagulación
+1998	Concept	28123,28131	torrente
+1999	Concept	28123,28141	torrente sanguíneo
+2000	Action	28146,28154	artritis
+2001	Concept	28146,28162	artritis juvenil
+2002	Reference	28163,28165	es
+2003	Action	28146,28154	artritis
+2004	Action	28183,28189	afecta
+2005	Concept	28196,28201	niños
+2006	Concept	28207,28214	tumores
+2007	Concept	28207,28225	tumores cerebrales
+2008	Predicate	28215,28225	cerebrales
+2009	Reference	28235,28241	pueden
+2010	Action	28242,28251	presionar
+2011	Concept	28260,28267	nervios
+2012	Action	28270,28277	afectar
+2013	Concept	28281,28288	función
+2014	Concept	28281,28223	función cerebral
+2015	Concept	28303,28311	personas
+2016	Concept	28316,28326	trastornos
+2017	Concept	28331,28337	olfato
+2018	Reference	28338,28344	pueden
+2019	Action	28345,28351	perder
+2020	Concept	28355,28362	sentido
+2021	Concept	28331,28337	olfato
+2022	Action	28376,28382	sentir
+2023	Concept	28383,28389	olores
+2024	Concept	28383,28399	olores distintos
+2025	Concept	28418,28427	Boca seca
+2026	Reference	28428,28430	es
+2027	Concept	28434,28443	sensación
+2028	Concept	28469,28475	saliva
+2029	Action	28495,28500	llama
+2030	Concept	28501,28509	factores
+2031	Concept	28513,28519	riesgo
+2032	Concept	28524,28532	varicela
+2033	Reference	28533,28535	es
+2034	Concept	28540,28549	infección
+2035	Concept	28540,28557	infección causada
+2036	Predicate	28550,28557	causada
+2037	Concept	28565,28570	virus
+2038	Concept	28524,28532	varicela
+2039	Concept	28598,28603	mujer
+2040	Concept	28598,28614	mujer embarazada
+2041	Reference	28615,28620	puede
+2042	Action	28621,28626	pasar
+2043	Concept	28630,28635	virus
+2044	Concept	28680,28685	fecha
+2045	Concept	28689,28694	parto
+2046	Action	28712,28719	observa
+2047	Concept	28720,28727	cambios
+2048	Concept	28735,28742	hábitos
+2049	Concept	28735,28755	hábitos intestinales
+2050	Action	28756,28764	consulte
+2051	Concept	28768,28774	médico
+2052	Action	28785,28795	convierten
+2053	Action	28812,28818	causan
+2054	Concept	28819,28826	picazón
+2055	Action	28855,28860	curan
+2056	Concept	28866,28877	analgésicos
+2057	Reference	28878,28881	son
+2058	Concept	28882,28891	medicinas
+2059	Action	28896,28903	reducen
+2060	Action	28906,28913	alivian
+2061	Concept	28918,28925	dolores
+2062	Concept	28929,28935	cabeza
+2063	Concept	28998,29006	objetivo
+2064	Concept	29016,29024	cuidados
+2065	Action	29028,29034	ayudar
+2066	Concept	29041,29049	personas
+2067	Action	29054,29059	están
+2068	Action	29081,29086	tener
+2069	Concept	29087,29090	paz
+2070	Reference	29123,29128	puede
+2071	Reference	29129,29132	ser
+2072	Concept	29149,29154	ayuda
+2073	Concept	29158,29164	cuerpo
+2074	Concept	29167,29174	curarse
+2075	Concept	29194,29198	tipo
+2076	Reference	29199,29201	es
+2077	Concept	29205,29217	aspergilosis
+2078	Concept	29205,29226	aspergilosis invasiva
+2079	Action	29232,29236	daña
+2080	Concept	29241,29248	tejidos
+2081	Concept	29253,29259	cuerpo
+2082	Concept	29277,29283	médico
+2083	Action	29295,29300	tiene
+2084	Concept	29301,29313	convulsiones
+2085	Concept	29318,29326	problema
+2086	Concept	29318,29338	problema neurológico
+2087	Concept	29344,29352	síndrome
+2088	Concept	29388,29393	ácido
+2089	Concept	29388,29399	ácido úrico
+2090	Action	29403,29411	disuelve
+2091	Action	29426,29430	pasa
+2092	Concept	29439,29446	riñones
+2093	Action	29449,29453	sale
+2094	Concept	29481,29491	esclerosis
+2095	Concept	29481,29500	esclerosis múltiple
+2096	Reference	29481,29483	es
+2097	Concept	29513,29523	enfermedad
+2098	Concept	29528,29535	sistema
+2099	Concept	29528,29544	sistema nervioso
+2100	Action	29549,29555	afecta
+2101	Concept	29559,29566	cerebro
+2102	Concept	29572,29578	médula
+2103	Concept	29572,29586	médula espinal
+2104	Concept	29591,29599	vitamina
+2105	Action	29610,29615	juega
+2106	Concept	29619,29622	rol
+2107	Concept	29629,29636	sistema
+2108	Concept	29629,29645	sistema nervioso
+2109	Predicate	29647,29655	muscular
+2110	Action	29686,29690	tipo
+2111	Action	29699,29705	ocurre
+2112	Concept	29716,29722	cuerpo
+2113	Action	29726,29733	produce
+2114	Action	29762,29769	utiliza
+2115	Action	29786,29792	conoce
+2116	Concept	29798,29809	resistencia
+2117	Concept	29745,29753	insulina
+2118	Concept	29828,29837	depresión
+2119	Reference	29832,29834	es
+2120	Concept	29845,29855	enfermedad
+2121	Concept	29845,29863	enfermedad clínica
+2122	Concept	29875,29879	bebé
+2123	Action	29880,29886	pasará
+2124	Concept	29924,29927	año
+2125	Concept	29931,29935	vida
+2126	Concept	29940,29948	asesoría
+2127	Reference	29949,29954	puede
+2128	Concept	29955,29963	ayudarla
+2129	Action	29966,29977	sobrellevar
+2130	Concept	29981,29986	dolor
+2131	Concept	29994,30006	tratamientos
+2132	Action	30007,30015	incluyen
+2133	Concept	30019,30026	terapia
+2134	Concept	30019,30035	terapia hormonal
+2135	Concept	30037,30049	radioterapia
+2136	Concept	30071,30078	úlceras
+2137	Concept	30083,30090	presión
+2138	Reference	30091,30094	son
+2139	Concept	30095,30100	áreas
+2140	Concept	30104,30108	piel
+2141	Concept	30104,30118	piel lesionada
+2142	Action	30123,30133	permanecer
+2143	Concept	30147,30155	posición
+2144	Concept	30174,30180	tiempo
+2145	Concept	30186,30193	vacunas
+2146	Concept	30195,30202	lavarse
+2147	Concept	30222,30227	manos
+2148	Action	30248,30254	ayudan
+2149	Action	30257,30265	prevenir
+2150	Concept	30270,30281	infecciones
+2151	Concept	30286,30294	análisis
+2152	Concept	30298,30304	sangre
+2153	Predicate	30305,30312	llamado
+2154	Reference	30317,30322	puede
+2155	Action	30323,30332	comprobar
+2156	Reference	30338,30342	está
+2157	Action	30343,30352	manejando
+2158	Concept	30356,30364	diabetes
+2159	Reference	30372,30378	pueden
+2160	Reference	30379,30382	ser
+2161	Concept	30398,30404	retina
+2162	Reference	30405,30407	es
+2163	Concept	30412,30416	capa
+2164	Concept	30420,30426	tejido
+2165	Concept	30433,30438	parte
+2166	Concept	30433,30448	parte posterior
+2167	Concept	30453,30456	ojo
+2168	Action	30461,30468	percibe
+2169	Concept	30472,30475	luz
+2170	Action	30478,30483	envía
+2171	Concept	30488,30496	imágenes
+2172	Concept	30500,30507	cerebro
+2173	Concept	30512,30521	proveedor
+2174	Concept	30525,30530	salud
+2175	Reference	30531,30536	puede
+2176	Concept	30547,30552	ayuda
+2177	Action	30558,30567	encontrar
+2178	Concept	30577,30583	manera
+2179	Reference	30587,30592	dejar
+2180	Action	30596,30601	fumar
+2181	Concept	30607,30614	ostomía
+2182	Reference	30615,30617	es
+2183	Concept	30622,30630	abertura
+2184	Concept	30622,30641	abertura artificial
+2185	Action	30643,30649	estoma
+2186	Predicate	30651,30657	creada
+2187	Concept	30683,30689	cuerpo
+2188	Action	30696,30702	afuera
+2189	Action	30708,30716	permitir
+2190	Concept	30720,30724	paso
+2191	Concept	30728,30733	orina
+2192	Action	30757,30763	ocurre
+2193	Action	30771,30776	tiene
+2194	Concept	30777,30789	hipoglicemia
+2195	Concept	30795,30800	nivel
+2196	Concept	30804,30810	azúcar
+2197	Concept	30817,30823	sangre
+2198	Reference	30824,30829	puede
+2199	Action	30830,30835	estar
+2200	Action	30870,30874	mira
+2201	Concept	30878,30884	objeto
+2202	Reference	30892,30896	está
+2203	Action	30897,30907	utilizando
+2204	Concept	30915,30923	músculos
+2205	Action	30929,30934	mover
+2206	Concept	30941,30945	ojos
+2207	Concept	30971,30979	personas
+2208	Action	30984,30990	tienen
+2209	Concept	30995,31001	riesgo
+2210	Concept	31005,31010	apnea
+2211	Reference	30974,30977	son
+2212	Concept	31016,31023	hombres
+2213	Action	30971,30979	personas
+2214	Action	30984,30990	tienen
+2215	Concept	31045,31054	sobrepeso
+2216	Concept	31056,31064	historia
+2217	Concept	31056,31073	historia familiar
+2218	Concept	31085,31089	vías
+2219	Concept	31085,31103	vías respiratorias
+2220	Reference	31105,31107	Es
+2221	Action	31119,31128	reconocer
+2222	Action	31131,31137	tratar
+2223	Concept	31142,31154	enfermedades
+2224	Concept	31142,31163	enfermedades mentales
+2225	Concept	31171,31176	niños
+2226	Concept	31200,31207	tumores
+2227	Concept	31214,31221	cerebro
+2228	Reference	31222,31228	pueden
+2229	Action	31229,31236	mostrar
+2230	Concept	31244,31252	síntomas
+2231	Concept	31258,31265	mujeres
+2232	Concept	31258,31273	mujeres mayores
+2233	Action	31274,31283	necesitan
+2234	Concept	31290,31296	calcio
+2235	Action	31302,31310	prevenir
+2236	Concept	31314,31326	osteoporosis
+2237	Action	31335,31341	ocurre
+2238	Concept	31353,31361	arterias
+2239	Action	31366,31377	suministran
+2240	Concept	31381,31387	sangre
+2241	Concept	31391,31398	músculo
+2242	Action	31411,31420	endurecen
+2243	Action	31426,31435	estrechan
+2244	Concept	31447,31453	azúcar
+2245	Concept	31460,31466	sangre
+2246	Reference	31467,31475	comienza
+2247	Action	31478,31483	bajar
+2248	Concept	31489,31496	hormona
+2249	Action	31500,31506	indica
+2250	Concept	31510,31516	hígado
+2251	Action	31521,31527	libere
+2252	Concept	31541,31546	genes
+2253	Action	31581,31587	tienen
+2254	Concept	31591,31594	rol
+2255	Concept	31616,31623	humanos
+2256	Reference	31624,31630	pueden
+2257	Action	31631,31639	contraer
+2258	Action	31640,31646	ántrax
+2259	Concept	31660,31668	contacto
+2260	Concept	31673,31681	animales
+2261	Concept	31719,31726	vacunas
+2262	Action	31727,31736	funcionan
+2263	Concept	31727,31742	funcionan mejor
+2264	Action	31753,31764	administran
+2265	Concept	31775,31781	edades
+2266	Concept	31787,31796	alimentos
+2267	Action	31800,31808	componen
+2268	Concept	31812,31821	proteínas
+2269	Concept	31850,31859	ecografía
+2270	Reference	31874,31876	es
+2271	Concept	31880,31884	tipo
+2272	Concept	31888,31894	imagen
+2273	Concept	31899,31910	tratamiento
+2274	Reference	31911,31916	suele
+2275	Action	31917,31924	incluir
+2276	Concept	31929,31936	cirugía
+2277	Action	31942,31951	implantar
+2278	Concept	31956,31966	derivación
+2279	Concept	31971,31976	clave
+2280	Action	31982,31992	sobrevivir
+2281	Concept	31996,32004	neumonía
+2282	Reference	32022,32024	es
+2283	Concept	32028,32039	tratamiento
+2284	Concept	32028,32048	tratamiento temprano
+2285	Concept	32054,32059	niñas
+2286	Action	32067,32076	presentan
+2287	Reference	32077,32080	son
+2288	Concept	32084,32088	baja
+2289	Concept	32089,32097	estatura
+2290	Concept	32104,32111	ovarios
+2291	Action	32115,32124	funcionan
+2292	Concept	32128,32133	forma
+2293	Concept	32128,32142	forma adecuada
+2294	Concept	32152,32158	asilos
+2295	Concept	32162,32170	ancianos
+2296	Action	32171,32178	cuentan
+2297	Concept	32183,32191	unidades
+2298	Concept	32195,32203	cuidados
+2299	Concept	32195,32214	cuidados especiales
+2300	Concept	32220,32228	personas
+2301	Concept	32233,32242	problemas
+2302	Concept	32233,32249	problemas serios
+2303	Predicate	32243,32249	serios
+2304	Concept	32253,32260	memoria
+2305	Concept	32276,32286	enfermedad
+2306	Concept	32304,32308	daño
+2307	Concept	32315,32320	vaina
+2308	Action	32339,32346	bloquea
+2309	Concept	32351,32359	mensajes
+2310	Concept	32369,32376	cerebro
+2311	Concept	32382,32387	resto
+2312	Concept	32392,32398	cuerpo
+2313	Concept	32403,32414	tratamiento
+2314	Predicate	32419,32424	común
+2315	Reference	32425,32427	es
+2316	Concept	32431,32441	extracción
+2317	Concept	32448,32456	vesícula
+2318	Concept	32448,32463	vesícula biliar
+2319	Concept	32468,32474	cuerpo
+2320	Action	32475,32483	necesita
+2321	Action	32497,32502	tener
+2322	Concept	32514,32521	energía
+2323	Concept	32526,32533	presión
+2324	Concept	32526,32542	presión arterial
+2325	Reference	32528,32530	es
+2326	Concept	32565,32572	corazón
+2327	Action	32579,32588	bombeando
+2328	Concept	32592,32598	sangre
+2329	Concept	32603,32610	rubéola
+2330	Reference	32611,32613	es
+2331	Concept	32618,32627	infección
+2332	Concept	32618,32635	infección causada
+2333	Predicate	32628,32635	causada
+2334	Concept	32643,32648	virus
+2335	Concept	32653,32657	piel
+2336	Concept	32667,32674	ampolla
+2337	Concept	32675,32680	ayuda
+2338	Action	32683,32689	evitar
+2339	Concept	32694,32705	infecciones
+2340	Reference	32713,32718	puede
+2341	Action	32719,32724	bajar
+2342	Action	32733,32744	consumiendo
+2343	Concept	32751,32759	calorías
+2344	Action	32771,32779	haciendo
+2345	Concept	32780,32789	ejercicio
+2346	Concept	32806,32813	minutos
+2347	Concept	32818,32821	día
+2348	Concept	32827,32835	agujeros
+2349	Concept	32843,32856	perforaciones
+2350	Action	32864,32872	cerrarse
+2351	Action	32882,32890	utilizan
+2352	Concept	32891,32896	joyas
+2353	Concept	32910,32917	mayoría
+2354	Concept	32925,32933	personas
+2355	Reference	32928,32931	son
+2356	Concept	32953,32958	savia
+2357	Concept	32953,32967	savia aceitosa
+2358	Concept	32977,32984	plantas
+2359	Reference	32992,32997	puede
+2360	Action	32998,33005	recibir
+2361	Action	33059,33064	ayude
+2362	Action	33067,33075	respirar
+2363	Concept	33088,33097	productos
+2364	Concept	33101,33104	uso
+2365	Concept	33101,33114	uso cotidiano
+2366	Action	33115,33124	contienen
+2367	Concept	33146,33158	tratamientos
+2368	Concept	33167,33174	cirugía
+2369	Reference	33201,33207	pueden
+2370	Action	33208,33216	corregir
+2371	Concept	33220,33226	origen
+2372	Concept	33233,33243	enfermedad
+2373	Action	33246,33253	mejorar
+2374	Concept	33258,33266	síntomas
+2375	Concept	33271,33274	uso
+2376	Reference	33291,33296	puede
+2377	Action	33297,33303	llevar
+2378	Concept	33309,33320	resistencia
+2379	Action	33333,33340	agranda
+2380	Reference	33352,33357	puede
+2381	Action	33358,33364	causar
+2382	Concept	33365,33374	problemas
+2383	Concept	33379,33387	glándula
+2384	Concept	33379,33398	glándula pituitaria
+2385	Reference	33399,33401	es
+2386	Concept	33406,33412	tamaño
+2387	Concept	33420,33426	arveja
+2388	Action	33429,33433	está
+2389	Concept	33440,33444	base
+2390	Concept	33451,33458	cerebro
+2391	Concept	33467,33472	mujer
+2392	Action	33474,33479	tiene
+2393	Concept	33487,33494	abortos
+2394	Concept	33495,33506	espontáneos
+2395	Reference	33495,33497	es
+2396	Concept	33523,33535	infertilidad
+2397	Concept	33537,33552	Prehipertensión
+2398	Action	33553,33562	significa
+2399	Reference	33567,33569	es
+2400	Action	33596,33601	tenga
+2401	Concept	33602,33609	presión
+2402	Concept	33602,33618	presión arterial
+2403	Action	33637,33641	tome
+2404	Concept	33642,33649	medidas
+2405	Action	33655,33665	prevenirlo
+2406	Concept	33685,33690	ácido
+2407	Concept	33685,33696	ácido úrico
+2408	Reference	33697,33702	puede
+2409	Concept	33703,33713	acumularse
+2410	Concept	33731,33736	forma
+2411	Concept	33740,33745	aguja
+2412	Reference	33751,33756	puede
+2413	Action	33757,33765	conducir
+2414	Concept	33768,33777	problemas
+2415	Concept	33781,33786	salud
+2416	Concept	33781,33793	salud graves
+2417	Concept	33821,33828	mujeres
+2418	Concept	33833,33841	fibromas
+2419	Reference	33842,33848	pueden
+2420	Action	33849,33855	quedar
+2421	Concept	33871,33876	forma
+2422	Concept	33871,33884	forma natural
+2423	Concept	33891,33900	condición
+2424	Reference	33904,33906	es
+2425	Reference	33917,33922	puede
+2426	Action	33923,33931	contraer
+2427	Concept	33961,33968	persona
+2428	Concept	33961,33978	persona infectada
+2429	Concept	33984,33993	adenoides
+2430	Reference	33994,33997	son
+2431	Concept	34001,34007	parche
+2432	Concept	34011,34017	tejido
+2433	Concept	34024,34029	parte
+2434	Concept	34024,34034	parte alta
+2435	Concept	34041,34049	garganta
+2436	Concept	34070,34075	nariz
+2437	Concept	34080,34083	uso
+2438	Concept	34080,34092	uso correcto
+2439	Concept	34096,34104	condones
+2440	Concept	34108,34113	látex
+2441	Reference	34114,34119	puede
+2442	Action	34120,34127	reducir
+2443	Action	34137,34145	eliminar
+2444	Concept	34150,34156	riesgo
+2445	Action	34160,34168	contraer
+2446	Action	34171,34180	contagiar
+2447	Concept	34184,34190	herpes
+2448	Concept	34196,34204	exámenes
+2449	Action	34210,34222	diagnosticar
+2450	Concept	34226,34237	sarcoidosis
+2451	Action	34238,34246	incluyen
+2452	Concept	34247,34259	radiografías
+2453	Concept	34263,34268	tórax
+2454	Concept	34270,34277	pruebas
+2455	Concept	34281,34288	función
+2456	Concept	34281,34297	función pulmonar
+2457	Concept	34317,34326	picaduras
+2458	Concept	34334,34343	aguijones
+2459	Concept	34351,34357	abejas
+2460	Concept	34363,34370	avispas
+2461	Action	34376,34385	avispones
+2462	Concept	34406,34414	hormigas
+2463	Concept	34406,34420	hormigas rojas
+2464	Reference	34421,34427	suelen
+2465	Reference	34428,34431	ser
+2466	Concept	34447,34455	ampollas
+2467	Reference	34456,34459	son
+2468	Concept	34460,34472	sacos llenos
+2469	Concept	34476,34483	líquido
+2470	Concept	34490,34494	capa
+2471	Concept	34490,34502	capa externa
+2472	Concept	34509,34513	piel
+2473	Action	34525,34530	forma
+2474	Reference	34550,34552	es
+2475	Action	34571,34576	Tiene
+2476	Concept	34581,34595	probabilidades
+2477	Action	34599,34604	tener
+2478	Action	34612,34617	tiene
+2479	Concept	34624,34636	enfermedades
+2480	Concept	34642,34651	miastenia
+2481	Concept	34642,34657	miastenia grave
+2482	Action	34676,34686	reumatoide
+2483	Concept	34695,34700	bebés
+2484	Concept	34711,34716	meses
+2485	Action	34720,34727	padecen
+2486	Concept	34733,34743	trastornos
+2487	Concept	34748,34759	metabolismo
+2488	Concept	34767,34780	carbohidratos
+2489	Reference	34781,34784	son
+2490	Concept	34788,34793	grupo
+2491	Concept	34733,34743	trastornos
+2492	Concept	34733,34819	trastornos metabólicos
+2493	Concept	34825,34833	defectos
+2494	Concept	34825,34844	defectos congénitos
+2495	Reference	34845,34851	pueden
+2496	Reference	34852,34855	ser
+2497	Concept	34867,34874	severos
+2498	Concept	34880,34893	perforaciones
+2499	Reference	34909,34912	son
+2500	Concept	34932,34938	cuerpo
+2501	Action	34946,34954	remontan
+2502	Concept	34957,34964	tiempos
+2503	Concept	34957,34977	tiempos inmemoriales
+2504	Action	34986,34995	necesitan
+2505	Concept	34996,35003	equipos
+2506	Concept	34996,35014	equipos especiales
+2507	Reference	34989,34991	es
+2508	Action	35040,35045	tenga
+2509	Action	35050,35059	dirigirse
+2510	Concept	35066,35073	oficina
+2511	Concept	35066,35083	oficina diferente
+2512	Predicate	35074,35083	diferente
+2513	Concept	35104,35108	piel
+2514	Reference	35109,35111	es
+2515	Concept	35115,35121	órgano
+2516	Predicate	35126,35132	grande
+2517	Concept	35137,35143	cuerpo
+2518	Action	35145,35150	cubre
+2519	Action	35153,35160	protege
+2520	Concept	35137,35143	cuerpo
+2521	Concept	35175,35179	boca
+2522	Concept	35175,35184	boca seca
+2523	Reference	35188,35190	es
+2524	Concept	35195,35200	parte
+2525	Concept	35195,35207	parte normal
+2526	Concept	35212,35226	envejecimiento
+2527	Concept	35232,35244	tratamientos
+2528	Reference	35248,35254	pueden
+2529	Action	35255,35260	curar
+2530	Concept	35264,35274	enfermedad
+2531	Concept	35264,35280	enfermedad renal
+2532	Reference	35248,35254	pueden
+2533	Concept	35309,35315	cáncer
+2534	Concept	35309,35323	cáncer uterino
+2535	Reference	35324,35329	suele
+2536	Action	35330,35337	ocurrir
+2537	Concept	35367,35379	espondilitis
+2538	Reference	35367,35369	es
+2539	Concept	35428,35435	hombres
+2540	Concept	35451,35456	bebés
+2541	Action	35461,35469	nacieron
+2542	Reference	35489,35492	son
+2543	Concept	35519,35525	padres
+2544	Reference	35489,35492	son
+2545	Concept	35545,35550	madre
+2546	Action	35551,35555	tuvo
+2547	Concept	35556,35564	diabetes
+2548	Concept	35591,35596	parte
+2549	Action	35603,35608	mueve
+2550	Action	35615,35622	incluye
+2551	Action	35626,35631	fumar
+2552	Action	35636,35641	beber
+2553	Action	35653,35658	comer
+2554	Concept	35663,35668	dieta
+2555	Concept	35663,35678	dieta saludable
+2556	Action	35681,35686	hacer
+2557	Concept	35687,35696	ejercicio
+2558	Concept	35702,35710	lesiones
+2559	Concept	35718,35728	ligamentos
+2560	Action	35748,35754	causan
+2561	Concept	35755,35764	problemas
+2562	Concept	35772,35779	rodilla
+2563	Concept	35789,35801	enfermedades
+2564	Concept	35806,35810	oído
+2565	Reference	35811,35817	pueden
+2566	Action	35818,35826	terminar
+2567	Concept	35830,35839	problemas
+2568	Concept	35846,35854	audición
+2569	Reference	35869,35874	puede
+2570	Action	35875,35884	encontrar
+2571	Concept	35894,35900	partes
+2572	Concept	35905,35910	medio
+2573	Concept	35924,35939	citomegalovirus
+2574	Reference	35946,35948	es
+2575	Concept	35934,35939	virus
+2576	Action	35965,35974	encuentra
+2577	Concept	35993,36001	Millones
+2578	Concept	36005,36017	consumidores
+2579	Action	36018,36026	obtienen
+2580	Concept	36027,36038	información
+2581	Concept	36048,36053	salud
+2582	Concept	36061,36069	revistas
+2583	Action	36074,36084	televisión
+2584	Concept	36103,36116	mononucleosis
+2585	Concept	36103,36127	mononucleosis infecciosa
+2586	Reference	36128,36130	es
+2587	Concept	36135,36144	infección
+2588	Concept	36135,36152	infección causada
+2589	Concept	36177,36182	virus
+2590	Concept	36210,36218	estómago
+2591	Action	36234,36242	digieren
+2592	Concept	36247,36256	alimentos
+2593	Concept	36261,36269	vesícula
+2594	Action	36277,36283	libera
+2595	Concept	36284,36289	bilis
+2596	Concept	36305,36309	tubo
+2597	Concept	36305,36320	tubo denominado
+2598	Predicate	36310,36320	denominado
+2599	Concept	36321,36329	conducto
+2600	Predicate	36270,36276	biliar
+2601	Concept	36350,36360	enfermedad
+2602	Concept	36368,36376	arterias
+2603	Concept	36368,36387	arterias coronarias
+2604	Concept	36368,36376	arterias
+2605	Action	36412,36423	suministran
+2606	Concept	36424,36430	sangre
+2607	Concept	36444,36451	músculo
+2608	Action	36464,36473	endurecen
+2609	Action	36479,36488	estrechan
+2610	Concept	36498,36505	mayoría
+2611	Concept	36513,36518	niños
+2612	Concept	36538,36548	tecnología
+2613	Reference	36525,36527	es
+2614	Concept	36556,36561	parte
+2615	Concept	36556,36572	parte importante
+2616	Concept	36580,36585	vidas
+2617	Concept	36591,36605	procedimientos
+2618	Concept	36609,36619	tecnología
+2619	Concept	36623,36635	reproducción
+2620	Action	36653,36657	usan
+2621	Concept	36658,36664	óvulos
+2622	Concept	36668,36676	donantes
+2623	Concept	36668,36675	donante
+2624	Concept	36692,36699	esperma
+2625	Predicate	36724,36734	congelados
+2626	Action	36741,36749	detectar
+2627	Action	36751,36760	encontrar
+2628	Action	36764,36776	diagnosticar
+2629	Concept	36780,36788	leucemia
+2630	Concept	36789,36798	mielógena
+2631	Action	36811,36819	utilizan
+2632	Concept	36820,36827	pruebas
+2633	Action	36832,36840	examinan
+2634	Concept	36844,36850	sangre
+2635	Concept	36856,36862	médula
+2636	Concept	36856,36867	médula ósea
+2637	Concept	36872,36879	terapia
+2638	Concept	36872,36889	terapia biológica
+2639	Action	36890,36897	aumenta
+2640	Concept	36908,36917	capacidad
+2641	Concept	36922,36928	cuerpo
+2642	Action	36934,36942	combatir
+2643	Concept	36946,36952	cáncer
+2644	Concept	36958,36964	prueba
+2645	Concept	36968,36974	sangre
+2646	Predicate	36975,36982	llamada
+2647	Concept	36992,37005	lipoproteínas
+2648	Reference	37006,37011	puede
+2649	Action	37012,37017	medir
+2650	Concept	37022,37029	niveles
+2651	Concept	37033,37043	colesterol
+2652	Action	37051,37056	tiene
+2653	Concept	37061,37067	médula
+2654	Concept	37061,37072	médula ósea
+2655	Action	37076,37083	produce
+2656	Concept	37096,37103	células
+2657	Concept	37096,37114	células sanguíneas
+2658	Concept	37129,37137	síntomas
+2659	Reference	37138,37144	suelen
+2660	Action	37145,37156	desaparecer
+2661	Concept	37149,37152	par
+2662	Concept	37178,37182	días
+2663	Concept	37187,37199	estiramiento
+2664	Concept	37205,37211	masaje
+2665	Concept	37205,37217	masaje suave
+2666	Concept	37227,37234	músculo
+2667	Reference	37235,37241	pueden
+2668	Action	37242,37249	aliviar
+2669	Concept	37253,37258	dolor
+2670	Concept	37264,37276	convulsiones
+2671	Concept	37264,37290	convulsiones generalizadas
+2672	Reference	37291,37294	son
+2673	Concept	37298,37307	resultado
+2674	Concept	37311,37322	actividades
+2675	Concept	37311,37332	actividades anormales
+2676	Concept	37342,37347	lados
+2677	Concept	37352,37359	cerebro
+2678	Concept	37364,37371	corazón
+2679	Concept	37364,37376	corazón sano
+2680	Action	37377,37385	proviene
+2681	Concept	37392,37399	donante
+2682	Action	37404,37412	falleció
+2683	Concept	37438,37446	difteria
+2684	Reference	37447,37449	es
+2685	Concept	37466,37474	síntomas
+2686	Concept	37466,37484	síntomas iniciales
+2687	Concept	37493,37503	enfermedad
+2688	Reference	37504,37510	pueden
+2689	Action	37511,37518	incluir
+2690	Concept	37519,37530	movimientos
+2691	Concept	37519,37545	movimientos descontrolados
+2692	Predicate	37531,37545	descontrolados
+2693	Concept	37547,37554	torpeza
+2694	Concept	37557,37566	problemas
+2695	Concept	37570,37580	equilibrio
+2696	Concept	37598,37611	contaminación
+2697	Concept	37623,37629	partes
+2698	Concept	37634,37639	medio
+2699	Concept	37658,37662	aire
+2700	Action	37667,37671	agua
+2701	Reference	37684,37689	puede
+2702	Action	37690,37696	causar
+2703	Concept	37697,37706	problemas
+2704	Concept	37710,37715	salud
+2705	Concept	37721,37727	causas
+2706	Reference	37739,37742	son
+2707	Concept	37747,37756	bacterias
+2708	Concept	37788,37797	lactancia
+2709	Concept	37788,37805	lactancia materna
+2710	Action	37806,37812	ofrece
+2711	Concept	37820,37830	beneficios
+2712	Concept	37850,37861	adolescente
+2713	Predicate	37863,37868	pasas
+2714	Concept	37880,37887	cambios
+2715	Concept	37880,37895	cambios físicos
+2716	Predicate	37888,37895	físicos
+2717	Concept	37934,37944	enfermedad
+2718	Reference	37956,37958	es
+2719	Concept	37962,37966	tipo
+2720	Concept	37970,37977	linfoma
+2721	Concept	37982,37988	cáncer
+2722	Concept	37996,38001	parte
+2723	Concept	38006,38013	sistema
+2724	Concept	38006,38025	sistema inmunitario
+2725	Predicate	38026,38033	llamado
+2726	Concept	38006,38013	sistema
+2727	Concept	38006,38051	sistema linfático
+2728	Concept	38062,38072	trastornos
+2729	Concept	38079,38087	conducta
+2730	Reference	38088,38091	son
+2731	Concept	38107,38113	azúcar
+2732	Concept	38120,38126	sangre
+2733	Predicate	38136,38143	llamada
+2734	Reference	38154,38156	es
+2735	Concept	38107,38113	azúcar
+2736	Concept	38107,38176	azúcar principal
+2737	Action	38184,38193	encuentra
+2738	Concept	38211,38225	esterilización
+2739	Concept	38211,38234	esterilización adecuada
+2740	Concept	38239,38245	equipo
+2741	Reference	38211,38213	es
+2742	Concept	38265,38271	brotes
+2743	Reference	38272,38278	pueden
+2744	Reference	38280,38283	ser
+2745	Concept	38310,38318	síntomas
+2746	Reference	38272,38278	pueden
+2747	Action	38326,38334	aparecer
+2748	Concept	38360,38371	tratamiento
+2749	Action	38372,38379	depende
+2750	Concept	38383,38387	tipo
+2751	Concept	38391,38396	tumor
+2752	Action	38404,38412	diseminó
+2753	Concept	38421,38428	lugares
+2754	Concept	38434,38440	estado
+2755	Concept	38444,38449	salud
+2756	Concept	38444,38457	salud general
+2757	Concept	38463,38475	distensiones
+2758	Concept	38463,38486	distensiones musculares
+2759	Reference	38500,38506	suelen
+2760	Action	38507,38513	causar
+2761	Concept	38514,38519	dolor
+2762	Concept	38543,38554	tratamiento
+2763	Reference	38555,38557	es
+2764	Concept	38562,38573	combinación
+2765	Predicate	38577,38589	antibióticos
+2766	Action	38609,38616	reducen
+2767	Concept	38620,38625	ácido
+2768	Concept	38620,38635	ácido estomacal
+2769	Predicate	38637,38645	llamados
+2770	Concept	38662,38671	urticaria
+2771	Reference	38672,38675	son
+2772	Concept	38676,38683	ronchas
+2773	Action	38704,38712	producen
+2774	Action	38713,38720	picazón
+2775	Concept	38736,38745	epilepsia
+2776	Action	38746,38751	tiene
+2777	Concept	38759,38765	causas
+2778	Concept	38759,38774	causas posibles
+2779	Action	38780,38788	incluyen
+2780	Concept	38793,38805	enfermedades
+2781	Concept	38807,38815	lesiones
+2782	Concept	38807,38826	lesiones cerebrales
+2783	Concept	38832,38842	desarrollo
+2784	Concept	38832,38824	desarrollo cerebral
+2785	Concept	38869,38880	condiciones
+2786	Reference	38881,38887	pueden
+2787	Action	38888,38894	causar
+2788	Action	38902,38907	orina
+2789	Action	38908,38916	contenga
+2790	Concept	38917,38923	sangre
+2791	Concept	38939,38947	vitamina
+2792	Action	38950,38955	juega
+2793	Concept	38959,38964	papel
+2794	Concept	38959,38975	papel importante
+2795	Concept	38983,38991	sistemas
+2796	Concept	38983,39000	sistemas nervioso
+2797	Predicate	39002,39010	muscular
+2798	Concept	39042,39048	cáncer
+2799	Concept	39052,39058	pulmón
+2800	Action	39059,39067	comienza
+2801	Concept	39042,39048	cáncer
+2802	Concept	39096,39100	seno
+2803	Action	39059,39067	comienza
+2804	Concept	39125,39134	intestino
+2805	Concept	39125,39142	intestino delgado
+2806	Predicate	39135,39142	delgado
+2807	Reference	39143,39147	hace
+2808	Concept	39157,39162	parte
+2809	Concept	39169,39178	digestión
+2810	Concept	39186,39193	comidas
+2811	Action	39204,39211	ingiere
+2812	Action	39216,39221	tiene
+2813	Concept	39228,39235	niveles
+2814	Predicate	39252,39261	vitaminas
+2815	Reference	39263,39268	puede
+2816	Action	39269,39274	tener
+2817	Concept	39275,39284	problemas
+2818	Concept	39288,39293	salud
+2819	Concept	39303,39311	animales
+2820	Concept	39303,39320	animales salvajes
+2821	Reference	39321,39324	son
+2822	Concept	39339,39344	rabia
+2823	Concept	39349,39359	enfermedad
+2824	Reference	39360,39365	puede
+2825	Action	39366,39373	afectar
+2826	Concept	39426,39434	defectos
+2827	Concept	39441,39446	vista
+2828	Action	39452,39455	ver
+2829	Concept	39460,39467	colores
+2830	Concept	39460,39472	colores rojo
+2831	Predicate	39468,39472	rojo
+2832	Reference	39481,39484	son
+2833	Reference	39502,39504	Es
+2834	Concept	39515,39522	lavarse
+2835	Concept	39526,39529	ojo
+2836	Action	39552,39558	espera
+2837	Concept	39559,39564	ayuda
+2838	Concept	39559,39571	ayuda médica
+2839	Action	39593,39602	funcionan
+2840	Concept	39612,39623	infecciones
+2841	Concept	39612,39631	infecciones virales
+2842	Action	39650,39655	llama
+2843	Concept	39656,39660	urea
+2844	Concept	39665,39668	gas
+2845	Concept	39675,39682	cenizas
+2846	Concept	39675,39695	cenizas provenientes
+2847	Concept	39700,39706	volcán
+2848	Reference	39707,39713	pueden
+2849	Action	39714,39722	lesionar
+2850	Concept	39727,39735	pulmones
+2851	Concept	39743,39748	niños
+2852	Concept	39743,39757	niños pequeños
+2853	Action	39763,39771	ancianos
+2854	Concept	39778,39786	personas
+2855	Concept	39791,39803	enfermedades
+2856	Concept	39791,39817	enfermedades respiratorias
+2857	Concept	39830,39837	lunares
+2858	Reference	39838,39844	pueden
+2859	Reference	39845,39848	ser
+2860	Concept	39849,39856	manchas
+2861	Concept	39860,39870	nacimiento
+2862	Reference	39883,39888	puede
+2863	Action	39889,39897	contraer
+2864	Concept	39901,39911	enfermedad
+2865	Concept	39917,39928	superficies
+2866	Action	39929,39938	presionan
+2867	Concept	39942,39946	mama
+2868	Concept	39947,39957	haciéndola
+2869	Predicate	39962,39967	plana
+2870	Concept	39972,39978	basura
+2871	Reference	39979,39984	puede
+2872	Action	39985,39992	incluir
+2873	Concept	39993,40005	desperdicios
+2874	Concept	39993,40013	desperdicios tóxicos
+2875	Concept	40019,40024	pilas
+2876	Concept	40019,40031	pilas viejas
+2877	Predicate	40033,40045	insecticidas
+2878	Concept	40049,40056	aerosol
+2879	Concept	40072,40079	pintura
+2880	Reference	40081,40086	Puede
+2881	Action	40087,40094	afectar
+2882	Concept	40105,40109	tipo
+2883	Concept	40113,40117	vaso
+2884	Concept	40113,40127	vaso sanguíneo
+2885	Action	40129,40138	incluidas
+2886	Concept	40143,40151	arterias
+2887	Action	40157,40162	venas
+2888	Concept	40183,40192	hemofilia
+2889	Reference	40193,40195	es
+2890	Concept	40199,40208	trastorno
+2891	Concept	40212,40223	coagulación
+2892	Concept	40212,40235	coagulación hereditario
+2893	Concept	40240,40245	falta
+2894	Concept	40253,40262	vitaminas
+2895	Reference	40273,40278	puede
+2896	Action	40279,40285	causar
+2897	Concept	40286,40292	anemia
+2898	Concept	40297,40304	sistema
+2899	Concept	40297,40314	sistema linfático
+2900	Action	40315,40322	elimina
+2901	Concept	40327,40338	infecciones
+2902	Action	40341,40349	mantiene
+2903	Concept	40367,40385	fluidos corporales
+2904	Reference	40393,40398	puede
+2905	Action	40399,40406	sangrar
+2906	Action	40412,40418	sufrir
+2907	Concept	40422,40427	corte
+2908	Concept	40446,40452	médico
+2909	Reference	40453,40458	puede
+2910	Action	40459,40468	encontrar
+2911	Concept	40469,40477	fibromas
+2912	Concept	40489,40495	examen
+2913	Concept	40489,40508	examen ginecológico
+2914	Action	40511,40521	utilizando
+2915	Concept	40522,40529	pruebas
+2916	Concept	40533,40539	imagen
+2917	Concept	40547,40554	coágulo
+2918	Reference	40555,40557	es
+2919	Action	40571,40578	existen
+2920	Concept	40586,40594	coágulos
+2921	Concept	40599,40606	embolia
+2922	Action	40607,40615	pulmonar
+2923	Reference	40616,40621	puede
+2924	Action	40622,40630	provocar
+2925	Concept	40634,40640	muerte
+2926	Concept	40646,40652	huesos
+2927	Action	40656,40662	ayudan
+2928	Action	40659,40662	dan
+2929	Concept	40681,40686	forma
+2930	Action	40689,40695	apoyan
+2931	Action	40712,40719	existen
+2932	Concept	40720,40727	vacunas
+2933	Action	40748,40756	prevenir
+2934	Concept	40760,40770	enfermedad
+2935	Concept	40788,40795	sistema
+2936	Concept	40788,40804	sistema urinario
+2937	Action	40805,40813	funciona
+2938	Concept	40830,40836	vejiga
+2939	Reference	40837,40842	puede
+2940	Action	40843,40852	almacenar
+2941	Concept	40862,40867	onzas
+2942	Action	40881,40886	tazas
+2943	Concept	40891,40896	orina
+2944	Concept	40931,40936	horas
+2945	Concept	40951,40961	inspección
+2946	Concept	40985,40993	máquinas
+2947	Reference	40994,40999	puede
+2948	Action	41000,41006	ayudar
+2949	Action	41009,41017	prevenir
+2950	Concept	41022,41032	accidentes
+2951	Concept	41042,41048	motivo
+2952	Concept	41053,41058	salud
+2953	Concept	41066,41074	personas
+2954	Concept	41079,41084	techo
+2955	Action	41089,41094	viven
+2956	Reference	41038,41040	es
+2957	Concept	41134,41143	población
+2958	Action	41162,41166	sabe
+2959	Reference	41171,41173	es
+2960	Action	41181,41186	causa
+2961	Concept	41192,41196	tipo
+2962	Concept	41200,41207	manchas
+2963	Reference	41222,41225	son
+2964	Concept	41229,41236	familia
+2965	Concept	41241,41245	humo
+2966	Action	41254,41263	perjudica
+2967	Concept	41272,41280	personas
+2968	Action	41285,41293	respiran
+2969	Concept	41241,41245	humo
+2970	Concept	41305,41310	forma
+2971	Concept	41305,41317	forma pasiva
+2972	Concept	41322,41327	radón
+2973	Action	41336,41341	puede
+2974	Concept	41342,41353	encontrarse
+2975	Concept	41360,41364	agua
+2976	Concept	41394,41398	pozo
+2977	Action	41410,41418	calienta
+2978	Reference	41420,41422	es
+2979	Concept	41426,41429	gas
+2980	Concept	41434,41438	olor
+2981	Reference	41457,41462	puede
+2982	Concept	41471,41480	enjuagues
+2983	Concept	41471,41488	enjuagues nasales
+2984	Action	41508,41512	usar
+2985	Concept	41513,41517	agua
+2986	Concept	41513,41527	agua destilada
+2987	Predicate	41518,41527	destilada
+2988	Concept	41483,41486	sal
+2989	Action	41559,41565	conoce
+2990	Concept	41571,41579	conducta
+2991	Concept	41571,41590	conducta expectante
+2992	Concept	41595,41602	trabajo
+2993	Concept	41606,41611	parto
+2994	Reference	41622,41627	puede
+2995	Action	41628,41636	comenzar
+2996	Action	41646,41655	completar
+2997	Concept	41663,41670	semanas
+2998	Concept	41674,41682	embarazo
+2999	Concept	41687,41693	vacuna
+3000	Concept	41704,41711	tétanos
+3001	Reference	41712,41717	puede
+3002	Action	41718,41726	prevenir
+3003	Concept	41730,41740	enfermedad
+3004	Concept	41745,41755	hemorragia
+3005	Concept	41763,41777	articulaciones
+3006	Action	41778,41785	provoca
+3007	Concept	41786,41791	dolor
+3008	Action	41808,41813	trata
+3009	Reference	41815,41820	puede
+3010	Action	41821,41829	conducir
+3011	Concept	41832,41840	artritis
+3012	Concept	41845,41852	mayoría
+3013	Concept	41860,41865	niños
+3014	Action	41869,41876	enferma
+3015	Concept	41882,41890	personas
+3016	Concept	41895,41903	psicosis
+3017	Action	41904,41911	pierden
+3018	Concept	41915,41923	contacto
+3019	Reference	41941,41943	Es
+3020	Action	41956,41964	necesite
+3021	Concept	41969,41976	cirugía
+3022	Concept	41989,41997	bloqueos
+3023	Concept	41989,42009	bloqueos posteriores
+3024	Action	42013,42019	forman
+3025	Concept	42038,42043	venas
+3026	Concept	42038,42054	venas injertadas
+3027	Reference	42080,42087	estaban
+3028	Concept	42088,42098	bloqueadas
+3029	Concept	42116,42126	tomografía
+3030	Concept	42116,42140	tomografía computarizada
+3031	Reference	42146,42148	es
+3032	Concept	42153,42163	tecnología
+3033	Concept	42169,42180	diagnóstico
+3034	Concept	42185,42193	imágenes
+3035	Concept	42199,42206	médicos
+3036	Action	42207,42211	usan
+3037	Concept	42215,42230	ecocardiografía
+3038	Action	42236,42248	diagnosticar
+3039	Concept	42256,42265	problemas
+3040	Concept	42256,42275	problemas cardíacos
+3041	Action	42295,42304	comprobar
+3042	Concept	42305,42313	lo grave
+3043	Concept	42329,42336	células
+3044	Action	42340,42345	duran
+3045	Concept	42375,42383	glóbulos
+3046	Concept	42375,42389	glóbulos rojos
+3047	Concept	42411,42417	partes
+3048	Concept	42422,42428	cuerpo
+3049	Concept	42434,42442	párpados
+3050	Reference	42443,42449	pueden
+3051	Concept	42450,42460	infectarse
+3052	Action	42462,42472	inflamarse
+3053	Action	42481,42492	desarrollar
+3054	Concept	42493,42499	cáncer
+3055	Concept	42512,42524	mitocondrias
+3056	Reference	42525,42528	son
+3057	Concept	42546,42553	células
+3058	Action	42557,42563	tienen
+3059	Concept	42575,42582	energía
+3060	Concept	42595,42602	niveles
+3061	Concept	42595,42608	niveles bajos
+3062	Concept	42613,42618	plomo
+3063	Reference	42619,42624	puede
+3064	Action	42625,42632	afectar
+3065	Concept	42636,42647	crecimiento
+3066	Concept	42636,42654	crecimiento físico
+3067	Predicate	42648,42654	físico
+3068	Concept	42670,42674	niño
+3069	Concept	42679,42683	piel
+3070	Action	42695,42699	hace
+3071	Action	42714,42720	pierde
+3072	Concept	42721,42726	grasa
+3073	Action	42728,42738	tornándose
+3074	Concept	42764,42769	grupo
+3075	Concept	42764,42776	grupo racial
+3076	Predicate	42770,42776	racial
+3077	Action	42786,42791	tiene
+3078	Concept	42792,42801	problemas
+3079	Concept	42805,42810	salud
+3080	Concept	42805,42822	salud específicos
+3081	Concept	42827,42834	mayoría
+3082	Concept	42842,42850	personas
+3083	Concept	42855,42864	trastorno
+3084	Concept	42869,42876	consumo
+3085	Concept	42880,42887	alcohol
+3086	Reference	42888,42894	pueden
+3087	Action	42895,42904	encontrar
+3088	Concept	42905,42910	ayuda
+3089	Concept	42922,42927	forma
+3090	Concept	42931,42942	tratamiento
+3091	Concept	42947,42955	síndrome
+3092	Reference	42964,42969	puede
+3093	Concept	42970,42978	causarle
+3094	Concept	42979,42983	coma
+3095	Concept	42986,42992	muerte
+3096	Concept	42986,43001	muerte cerebral
+3097	Concept	43018,43029	diagnóstico
+3098	Reference	43051,43053	es
+3099	Concept	43069,43080	indigestión
+3100	Reference	43081,43086	puede
+3101	Reference	43087,43090	ser
+3102	Concept	43091,43103	consecuencia
+3103	Action	43107,43112	comer
+3104	Action	43143,43150	ingerir
+3105	Concept	43151,43160	alimentos
+3106	Concept	43151,43169	alimentos grasosos
+3107	Action	43107,43112	comer
+3108	Concept	43181,43189	momentos
+3109	Concept	43193,43199	estrés
+3110	Concept	43207,43219	tratamientos
+3111	Concept	43207,43228	tratamientos posibles
+3112	Action	43229,43237	incluyen
+3113	Concept	43238,43249	analgésicos
+3114	Action	43251,43262	inmovilizar
+3115	Concept	43266,43270	área
+3116	Concept	43266,43280	área lesionada
+3117	Action	43282,43296	rehabilitación
+3118	Concept	43308,43313	veces
+3119	Concept	43315,43322	cirugía
+3120	Concept	43328,43333	niños
+3121	Action	43334,43340	crecen
+3122	Action	43343,43350	maduran
+3123	Concept	43353,43364	velocidades
+3124	Predicate	43369,43378	distintas
+3125	Concept	43383,43389	cáncer
+3126	Action	43397,43406	encuentra
+3127	Reference	43416,43418	es
+3128	Action	43432,43438	tratar
+3129	Concept	43444,43451	médicos
+3130	Reference	43455,43460	están
+3131	Reference	43455,43457	es
+3132	Concept	43483,43488	causa
+3133	Concept	43493,43501	síndrome
+3134	Concept	43517,43531	articulaciones
+3135	Concept	43517,43541	articulaciones afectadas
+3136	Reference	43542,43545	son
+3137	Concept	43562,43569	rodilla
+3138	Action	43574,43581	tobillo
+3139	Concept	43596,43606	sustancias
+3140	Concept	43596,43614	sustancias tóxicas
+3141	Concept	43624,43633	productos
+3142	Reference	43634,43640	pueden
+3143	Action	43641,43647	causar
+3144	Concept	43648,43652	daño
+3145	Action	43659,43666	inhalan
+3146	Action	43671,43679	ingieren
+3147	Action	43682,43690	absorben
+3148	Concept	43715,43727	osteoporosis
+3149	Concept	43734,43740	cadera
+3150	Action	43754,43763	debiliten
+3151	Concept	43768,43774	huesos
+3152	Action	43780,43786	rompan
+3153	Concept	43832,43836	años
+3154	Concept	43837,43845	millones
+3155	Concept	43849,43857	personas
+3156	Action	43858,43864	sufren
+3157	Concept	43868,43876	lesiones
+3158	Action	43881,43888	existen
+3159	Concept	43889,43894	curas
+3160	Concept	43915,43930	leucodistrofias
+3161	Concept	43959,43963	feto
+3162	Action	43964,43969	crece
+3163	Action	43975,43985	desarrolla
+3164	Action	43994,43999	llama
+3165	Concept	44000,44009	adenoides
+3166	Concept	44000,44023	adenoides hipertróficas
+3167	Reference	44031,44036	están
+3168	Action	44057,44062	tiene
+3169	Concept	44066,44076	trastornos
+3170	Concept	44066,44087	trastornos metabólico
+3171	Concept	44096,44104	problema
+3172	Concept	44126,44134	lesiones
+3173	Predicate	44139,44144	plexo
+3174	Concept	44139,44153	plexo braquial
+3175	Reference	44154,44160	pueden
+3176	Action	44161,44168	ocurrir
+3177	Action	44184,44191	tumores
+3178	Concept	44194,44205	inflamación
+3179	Concept	44212,44218	hombro
+3180	Concept	44230,44235	placa
+3181	Concept	44242,44249	arteria
+3182	Reference	44250,44255	puede
+3183	Action	44256,44262	causar
+3184	Concept	44266,44273	bloqueo
+3185	Action	44280,44288	detectar
+3186	Concept	44293,44302	infección
+3187	Concept	44331,44337	doctor
+3188	Action	44338,44347	realizará
+3189	Concept	44348,44356	exámenes
+3190	Concept	44360,44366	sangre
+3191	Concept	44395,44406	preparación
+3192	Concept	44417,44426	intestino
+3193	Concept	44439,44445	médico
+3194	Reference	44446,44451	pueda
+3195	Action	44452,44460	observar
+3196	Concept	44496,44509	contaminantes
+3197	Reference	44510,44516	pueden
+3198	Action	44517,44523	causar
+3199	Concept	44524,44531	cuadros
+3200	Action	44539,44548	presentan
+3201	Concept	44571,44583	enfermedades
+3202	Concept	44571,44597	enfermedades respiratorias
+3203	Predicate	44584,44597	respiratorias
+3204	Concept	44611,44617	angina
+3205	Reference	44618,44620	es
+3206	Concept	44624,44629	dolor
+3207	Action	44660,44666	siente
+3208	Reference	44677,44680	hay
+3209	Concept	44692,44702	irrigación
+3210	Concept	44692,44712	irrigación sanguínea
+3211	Concept	44716,44723	músculo
+3212	Concept	44716,44732	músculo cardiaco
+3213	Action	44740,44746	sirven
+3214	Concept	44755,44762	sistema
+3215	Concept	44766,44776	reparación
+3216	Concept	44785,44794	organismo
+3217	Action	44805,44810	tiene
+3218	Concept	44811,44815	cura
+3219	Concept	44823,44831	personas
+3220	Action	44832,44838	tienen
+3221	Concept	44839,44849	trastornos
+3222	Concept	44853,44861	ansiedad
+3223	Action	44866,44875	desconoce
+3224	Concept	44879,44884	causa
+3225	Concept	44889,44897	síndrome
+3226	Reference	44920,44924	está
+3227	Concept	44949,44960	respiración
+3228	Concept	44967,44971	hijo
+3229	Concept	44984,44993	proveedor
+3230	Concept	44997,45005	atención
+3231	Concept	44997,45012	atención médica
+3232	Concept	45033,45037	daño
+3233	Action	45038,45046	continúa
+3234	Concept	45052,45059	riñones
+3235	Reference	45060,45066	pueden
+3236	Action	45067,45073	fallar
+3237	Concept	45075,45088	Insuficiencia
+3238	Concept	45075,45097	Insuficiencia cardiaca
+3239	Action	45098,45107	significa
+3240	Concept	45115,45122	corazón
+3241	Reference	45126,45131	puede
+3242	Action	45132,45139	bombear
+3243	Concept	45143,45149	sangre
+3244	Concept	45167,45172	resto
+3245	Concept	45177,45183	cuerpo
+3246	Action	45185,45191	Existe
+3247	Concept	45195,45202	músculo
+3248	Concept	45207,45215	esfínter
+3249	Concept	45207,45225	esfínter esofágico
+3250	Action	45240,45245	actúa
+3251	Concept	45294,45305	tratamiento
+3252	Reference	45306,45311	puede
+3253	Action	45312,45319	incluir
+3254	Concept	45320,45327	cirugía
+3255	Concept	45340,45349	radiación
+3256	Concept	45351,45364	quimioterapia
+3257	Concept	45371,45382	combinación
+3258	Action	45402,45407	trata
+3259	Reference	45409,45414	puede
+3260	Reference	45415,45418	ser
+3261	Concept	45431,45443	tratamientos
+3262	Reference	45444,45450	pueden
+3263	Action	45451,45458	incluir
+3264	Concept	45459,45466	terapia
+3265	Concept	45459,45473	terapia física
+3266	Concept	45489,45497	terapias
+3267	Concept	45489,45511	terapias nutricionales
+3268	Predicate	45498,45511	nutricionales
+3269	Concept	45556,45563	médicos
+3270	Action	45576,45580	usan
+3271	Reference	45586,45595	controlar
+3272	Concept	45604,45616	enfermedades
+3273	Concept	45621,45627	hígado
+3274	Concept	45653,45660	efectos
+3275	Concept	45653,45672	efectos secundarios
+3276	Concept	45680,45692	medicamentos
+3277	Concept	45703,45709	riesgo
+3278	Concept	45718,45727	condición
+3279	Reference	45705,45707	es
+3280	Concept	45735,45745	hemorragia
+3281	Concept	45753,45760	pruebas
+3282	Reference	45761,45767	pueden
+3283	Action	45768,45774	ayudar
+3284	Action	45777,45786	descubrir
+3285	Concept	45787,45799	enfermedades
+3286	Reference	45837,45840	son
+3287	Action	45856,45862	tratar
+3288	Action	45869,45875	existe
+3289	Concept	45881,45885	tipo
+3290	Concept	45889,45899	esteroides
+3291	Concept	45918,45929	corticoides
+3292	Action	45935,45940	trata
+3293	Concept	45945,45953	variedad
+3294	Concept	45957,45966	problemas
+3295	Concept	45972,45984	tratamientos
+3296	Action	45985,45993	incluyen
+3297	Concept	45994,46003	ejercicio
+3298	Concept	46042,46052	vacunación
+3299	Concept	46064,46069	mundo
+3300	Action	46070,46076	detuvo
+3301	Concept	46080,46092	diseminación
+3302	Concept	46099,46106	viruela
+3303	Reference	46107,46111	hace
+3304	Concept	46130,46137	vacunas
+3305	Reference	46152,46158	pueden
+3306	Action	46159,46165	ayudar
+3307	Action	46168,46176	prevenir
+3308	Concept	46185,46196	infecciones
+3309	Action	46216,46222	causan
+3310	Concept	46223,46231	verrugas
+3311	Concept	46223,46241	verrugas genitales
+3312	Concept	46249,46257	exámenes
+3313	Concept	46261,46267	sangre
+3314	Action	46268,46274	buscan
+3315	Concept	46275,46281	partes
+3316	Concept	46286,46291	virus
+3317	Concept	46298,46307	proteínas
+3318	Concept	46310,46318	material
+3319	Concept	46310,46327	material genético
+3320	Concept	46333,46340	paperas
+3321	Reference	46341,46344	son
+3322	Concept	46361,46366	virus
+3323	Concept	46333,46340	paperas
+3324	Concept	46387,46392	dedos
+3325	Concept	46400,46404	pies
+3326	Concept	46387,46391	dedo
+3327	Concept	46387,46433	dedo gordo
+3328	Action	46438,46444	ayudan
+3329	Action	46459,46467	mantener
+3330	Concept	46471,46481	equilibrio
+3331	Concept	46491,46499	personas
+3332	Action	46500,46506	llaman
+3333	Concept	46512,46520	síndrome
+3334	Concept	46522,46528	muerte
+3335	Concept	46535,46539	cuna
+3336	Concept	46555,46560	casos
+3337	Concept	46564,46569	bebés
+3338	Concept	46564,46577	bebés muertos
+3339	Reference	46494,46497	son
+3340	Concept	46601,46606	cunas
+3341	Concept	46611,46617	muñeca
+3342	Reference	46618,46622	está
+3343	Concept	46640,46646	huesos
+3344	Concept	46640,46655	huesos pequeños
+3345	Predicate	46656,46665	conocidos
+3346	Action	46685,46698	osteoartritis
+3347	Concept	46685,46706	osteoartritis degrada
+3348	Concept	46710,46719	cartílago
+3349	Concept	46727,46741	articulaciones
+3350	Concept	46746,46753	síntoma
+3351	Predicate	46758,46763	común
+3352	Concept	46768,46774	cáncer
+3353	Concept	46778,46783	hueso
+3354	Reference	46780,46782	es
+3355	Concept	46790,46795	dolor
+3356	Concept	46802,46811	trastorno
+3357	Action	46812,46816	hace
+3358	Reference	46821,46824	sea
+3359	Action	46844,46852	mantener
+3360	Concept	46856,46863	trabajo
+3361	Action	46866,46872	cuidar
+3362	Concept	46890,46897	mayoría
+3363	Action	46908,46912	coli
+3364	Action	46916,46922	causan
+3365	Concept	46923,46932	problemas
+3366	Concept	46960,46967	riesgos
+3367	Concept	46971,46976	salud
+3368	Action	46981,46990	enfrentan
+3369	Concept	46995,47002	hombres
+3370	Concept	47015,47021	cáncer
+3371	Action	47026,47031	colon
+3372	Concept	47034,47046	enfermedades
+3373	Concept	47034,47056	enfermedades cardiacas
+3374	Reference	47058,47064	pueden
+3375	Concept	47065,47075	prevenirse
+3376	Concept	47094,47105	diagnóstico
+3377	Concept	47094,47116	diagnóstico anticipado
+3378	Reference	47139,47142	son
+3379	Concept	47146,47151	suelo
+3380	Action	47157,47167	nutrientes
+3381	Concept	47189,47197	personas
+3382	Concept	47202,47214	enfermedades
+3383	Concept	47202,47228	enfermedades respiratorias
+3384	Reference	47229,47235	pueden
+3385	Action	47236,47243	recibir
+3386	Concept	47244,47258	rehabilitación
+3387	Action	47259,47267	pulmonar
+3388	Reference	47273,47278	poder
+3389	Action	47279,47287	respirar
+3390	Action	47296,47303	mejorar
+3391	Concept	47307,47314	calidad
+3392	Concept	47318,47322	vida
+3393	Concept	47324,47332	Consulte
+3394	Concept	47338,47344	médico
+3395	Action	47348,47357	considera
+3396	Action	47362,47367	tiene
+3397	Concept	47368,47377	hematomas
+3398	Concept	47411,47420	infección
+3399	Action	47431,47436	tiene
+3400	Concept	47437,47447	enfermedad
+3401	Concept	47452,47459	corazón
+3402	Reference	47461,47463	es
+3403	Concept	47475,47486	encontrarla
+3404	Reference	47461,47463	es
+3405	Action	47520,47526	tratar
+3406	Concept	47535,47540	casos
+3407	Predicate	47545,47552	severos
+3408	Concept	47558,47570	adolescentes
+3409	Concept	47558,47582	adolescentes intimidados
+3410	Reference	47583,47589	pueden
+3411	Action	47590,47596	sentir
+3412	Concept	47600,47609	necesidad
+3413	Action	47613,47618	tomar
+3414	Concept	47619,47626	medidas
+3415	Concept	47619,47636	medidas drásticas
+3416	Action	47639,47649	reaccionar
+3417	Concept	47672,47679	adultos
+3418	Action	47680,47686	roncan
+3419	Concept	47706,47713	hombres
+3420	Concept	47728,47734	signos
+3421	Concept	47738,47744	herpes
+3422	Action	47752,47760	incluyen
+3423	Concept	47761,47766	ardor
+3424	Concept	47769,47774	dolor
+3425	Concept	47769,47783	dolor punzante
+3426	Predicate	47775,47783	punzante
+3427	Concept	47826,47830	lado
+3428	Concept	47835,47841	cuerpo
+3429	Action	47853,47860	Existen
+3430	Concept	47868,47873	tipos
+3431	Concept	47877,47889	enfermedades
+3432	Concept	47877,47899	enfermedades cardiacas
+3433	Concept	47908,47913	causa
+3434	Predicate	47918,47923	común
+3435	Reference	47887,47889	es
+3436	Concept	47948,47955	bloqueo
+3437	Concept	47963,47971	arterias
+3438	Concept	47963,47982	arterias coronarias
+3439	Concept	47988,47993	vasos
+3440	Action	48009,48020	suministran
+3441	Concept	48021,48027	sangre
+3442	Concept	48051,48056	setas
+3443	Reference	48067,48070	son
+3444	Concept	48079,48084	tipos
+3445	Concept	48088,48094	hongos
+3446	Reference	48113,48115	es
+3447	Concept	48119,48129	meningitis
+3448	Reference	48113,48115	es
+3449	Concept	48142,48153	inflamación
+3450	Concept	48158,48164	tejido
+3451	Predicate	48165,48169	fino
+3452	Action	48174,48179	rodea
+3453	Concept	48183,48190	cerebro
+3454	Concept	48196,48202	médula
+3455	Concept	48196,48210	médula espinal
+3456	Concept	48215,48222	asiento
+3457	Concept	48215,48232	asiento delantero
+3458	Concept	48237,48246	automóvil
+3459	Concept	48252,48259	vagones
+3460	Concept	48266,48270	tren
+3461	Concept	48275,48283	cubierta
+3462	Concept	48290,48295	barco
+3463	Concept	48302,48310	asientos
+3464	Concept	48302,48319	asientos cercanos
+3465	Concept	48326,48330	alas
+3466	Concept	48337,48342	avión
+3467	Reference	48343,48346	son
+3468	Action	48370,48376	viajar
+3469	Concept	48382,48389	médicos
+3470	Action	48390,48402	diagnostican
+3471	Concept	48403,48413	talasemias
+3472	Concept	48423,48430	pruebas
+3473	Concept	48434,48440	sangre
+3474	Concept	48455,48462	células
+3475	Action	48466,48471	dañan
+3476	Action	48477,48485	enferman
+3477	Action	48490,48496	afecta
+3478	Concept	48500,48510	producción
+3479	Concept	48514,48522	melanina
+3480	Concept	48532,48541	problemas
+3481	Concept	48548,48554	sangre
+3482	Reference	48555,48561	pueden
+3483	Action	48562,48569	incluir
+3484	Concept	48532,48541	problemas
+3485	Concept	48583,48594	coagulación
+3486	Action	48596,48604	coágulos
+3487	Predicate	48605,48615	sanguíneos
+3488	Concept	48618,48628	desórdenes
+3489	Concept	48618,48641	desórdenes plaquetarios
+3490	Concept	48647,48655	hormonas
+3491	Reference	48656,48659	son
+3492	Concept	48664,48674	mensajeros
+3493	Concept	48664,48683	mensajeros químicos
+3494	Concept	48688,48694	cuerpo
+3495	Concept	48700,48719	cuidados paliativos
+3496	Reference	48720,48723	son
+3497	Concept	48727,48738	tratamiento
+3498	Concept	48747,48758	incomodidad
+3499	Action	48764,48772	síntomas
+3500	Action	48789,48796	produce
+3501	Concept	48801,48811	enfermedad
+3502	Concept	48801,48817	enfermedad grave
+3503	Concept	48823,48830	médicos
+3504	Reference	48831,48837	pueden
+3505	Action	48838,48844	tratar
+3506	Concept	48849,48858	problemas
+3507	Concept	48862,48867	salud
+3508	Predicate	48868,48876	causados
+3509	Concept	48884,48892	cirrosis
+3510	Concept	48897,48909	medicamentos
+3511	Concept	48931,48945	procedimientos
+3512	Concept	48931,48830	procedimientos médicos
+3513	Concept	48959,48964	bebés
+3514	Concept	48968,48977	embarazos
+3515	Concept	48968,48987	embarazos múltiples
+3516	Action	48988,48994	tienen
+3517	Concept	49001,49007	riesgo
+3518	Action	49011,49016	nacer
+3519	Concept	49037,49049	meningococos
+3520	Reference	49050,49056	pueden
+3521	Action	49057,49063	causar
+3522	Concept	49070,49079	problemas
+3523	Action	49081,49091	incluyendo
+3524	Concept	49096,49105	infección
+3525	Concept	49110,49118	torrente
+3526	Concept	49110,49128	torrente sanguíneo
+3527	Concept	49143,49149	sepsis
+3528	Concept	49159,49171	medicamentos
+3529	Reference	49172,49178	pueden
+3530	Action	49179,49186	aliviar
+3531	Concept	49191,49199	síntomas
+3532	Action	49221,49226	tiene
+3533	Concept	49230,49239	trastorno
+3534	Concept	49230,49251	trastorno metabólicos
+3535	Concept	49260,49268	problema
+3536	Action	49286,49291	Tener
+3537	Concept	49296,49303	recaída
+3538	Action	49307,49316	significa
+3539	Reference	49324,49329	pueda
+3540	Concept	49330,49341	recuperarse
+3541	Reference	49357,49359	ha
+3542	Action	49360,49366	picado
+3543	Concept	49371,49376	araña
+3544	Action	49385,49390	tenga
+3545	Concept	49395,49403	reacción
+3546	Concept	49395,49411	reacción similar
+3547	Reference	49421,49426	puede
+3548	Concept	49427,49438	ocasionarle
+3549	Concept	49443,49448	abeja
+3550	Concept	49455,49469	enrojecimiento
+3551	Concept	49495,49500	lugar
+3552	Concept	49507,49515	picadura
+3553	Concept	49521,49529	personas
+3554	Action	49537,49543	tienen
+3555	Concept	49550,49556	riesgo
+3556	Action	49560,49571	desarrollar
+3557	Concept	49572,49580	diabetes
+3558	Predicate	49615,49622	linfoma
+3559	Concept	49642,49649	várices
+3560	Reference	49650,49653	son
+3561	Action	49672,49677	gusta
+3562	Concept	49681,49691	apariencia
+3563	Concept	49696,49702	médico
+3564	Reference	49703,49708	puede
+3565	Action	49709,49719	recomendar
+3566	Concept	49720,49734	procedimientos
+3567	Concept	49740,49751	extirparlas
+3568	Concept	49757,49765	síntomas
+3569	Concept	49757,49776	síntomas prematuros
+3570	Action	49777,49785	incluyen
+3571	Concept	49786,49791	dolor
+3572	Concept	49808,49815	espalda
+3573	Concept	49821,49833	enfermedades
+3574	Concept	49838,49845	corazón
+3575	Reference	49846,49849	son
+3576	Concept	49863,49868	causa
+3577	Concept	49872,49878	muerte
+3578	Concept	49905,49914	depresión
+3579	Reference	49909,49911	es
+3580	Concept	49922,49927	parte
+3581	Concept	49932,49941	trastorno
+3582	Concept	49932,49949	trastorno bipolar
+3583	Concept	49957,49961	caso
+3584	Concept	49965,49976	necesitarlo
+3585	Action	49978,49988	prednisona
+3586	Concept	49993,49997	tipo
+3587	Concept	50001,50010	esteroide
+3588	Reference	49968,49970	es
+3589	Concept	50018,50029	tratamiento
+3590	Concept	50018,50039	tratamiento principal
+3591	Concept	50045,50055	trastornos
+3592	Concept	50045,50066	trastornos cerebrales
+3593	Action	50077,50084	afectan
+3594	Concept	50088,50098	desarrollo
+3595	Concept	50120,50127	cerebro
+3596	Concept	50134,50142	síndrome
+3597	Reference	50143,50145	es
+3598	Action	50157,50169	diagnosticar
+3599	Concept	50174,50182	gangrena
+3600	Reference	50183,50188	puede
+3601	Action	50189,50196	ocurrir
+3602	Concept	50203,50213	superficie
+3603	Concept	50218,50224	cuerpo
+3604	Concept	50244,50252	interior
+3605	Concept	50218,50224	cuerpo
+3606	Action	50314,50322	envejece
+3607	Reference	50330,50335	puede
+3608	Action	50336,50345	necesitar
+3609	Concept	50352,50359	energía
+3610	Concept	50365,50372	tumores
+3611	Concept	50365,50381	tumores malignos
+3612	Concept	50385,50394	glándulas
+3613	Concept	50385,50408	glándulas suprarrenales
+3614	Reference	50409,50412	son
+3615	Concept	50431,50439	síntomas
+3616	Reference	50440,50446	pueden
+3617	Action	50447,50454	incluir
+3618	Concept	50455,50458	tos
+3619	Concept	50455,50463	tos seca
+3620	Concept	50431,50439	síntomas
+3621	Concept	50477,50481	asma
+3622	Action	50499,50505	tragar
+3623	Action	50523,50529	siente
+3624	Action	50530,50537	picazón
+3625	Action	50557,50562	tiene
+3626	Concept	50563,50570	ronchas
+3627	Reference	50575,50582	vuelven
+3628	Action	50585,50593	aparecer
+3629	Action	50557,50562	tiene
+3630	Action	50530,50537	picazón
+3631	Concept	50618,50623	causa
+3632	Concept	50618,50632	causa aparente
+3633	Reference	50634,50640	podría
+3634	Action	50641,50650	necesitar
+3635	Concept	50657,50665	atención
+3636	Concept	50657,50672	atención médica
+3637	Concept	50677,50686	vaginitis
+3638	Reference	50687,50689	es
+3639	Concept	50718,50725	mujeres
+3640	Concept	50729,50733	edad
+3641	Concept	50729,50746	edad reproductiva
+3642	Concept	50752,50759	ataques
+3643	Concept	50752,50770	ataques isquémicos
+3644	Concept	50771,50783	transitorios
+3645	Action	50787,50795	producen
+3646	Concept	50806,50812	sangre
+3647	Action	50816,50821	llega
+3648	Concept	50856,50863	sistema
+3649	Concept	50856,50873	sistema digestivo
+3650	Reference	50867,50869	es
+3651	Concept	50881,50886	serie
+3652	Concept	50890,50897	órganos
+3653	Concept	50890,50904	órganos huecos
+3654	Predicate	50905,50911	unidos
+3655	Concept	50918,50922	tubo
+3656	Concept	50918,50928	tubo largo
+3657	Predicate	50923,50928	largo
+3658	Concept	50946,50954	cánceres
+3659	Predicate	50959,50966	comunes
+3660	Concept	50973,50981	embarazo
+3661	Concept	50992,50996	mama
+3662	Concept	51001,51007	cuello
+3663	Concept	51040,51054	CO proveniente
+3664	Concept	51064,51069	humos
+3665	Reference	51070,51075	puede
+3666	Concept	51076,51086	acumularse
+3667	Action	51105,51111	tienen
+3668	Concept	51122,51133	circulación
+3669	Concept	51137,51141	aire
+3670	Concept	51137,51148	aire fresco
+3671	Action	51159,51164	tiene
+3672	Concept	51181,51191	trastornos
+3673	Action	51193,51198	puede
+3674	Action	51206,51211	tenga
+3675	Concept	51224,51231	enzimas
+3676	Action	51237,51248	descomponer
+3677	Concept	51253,51260	lípidos
+3678	Concept	51224,51231	enzimas
+3679	Reference	51276,51282	pueden
+3680	Action	51286,51295	funcionar
+3681	Concept	51299,51304	forma
+3682	Concept	51299,51313	forma correcta
+3683	Concept	51319,51325	cuerpo
+3684	Reference	51193,51198	puede
+3685	Action	51335,51344	convertir
+3686	Concept	51373,51378	tinte
+3687	Action	51379,51386	destaca
+3688	Concept	51390,51397	corazón
+3689	Concept	51404,51409	vasos
+3690	Concept	51428,51436	imágenes
+3691	Action	51438,51445	Existen
+3692	Concept	51453,51459	causas
+3693	Concept	51453,51468	causas posibles
+3694	Concept	51472,51482	hemorragia
+3695	Concept	51472,51499	hemorragia gastrointestinal
+3696	Action	51516,51526	encuentran
+3697	Concept	51527,51538	hemorroides
+3698	Predicate	51548,51556	pépticas
+3699	Concept	51630,51637	colitis
+3700	Concept	51630,51648	colitis ulcerativa
+3701	Predicate	51638,51648	ulcerativa
+3702	Concept	51662,51672	enfermedad
+3703	Action	51683,51690	pólipos
+3704	Action	51695,51700	colon
+3705	Action	51695,51700	colon
+3706	Concept	51749,51754	mueve
+3707	Action	51762,51767	habla
+3708	Action	51788,51793	trata
+3709	Action	51808,51813	causa
+3710	Concept	51818,51826	erupción
+3711	Concept	51818,51834	erupción cutánea
+3712	Predicate	51842,51846	pica
+3713	Concept	51866,51871	manos
+3714	Concept	51886,51894	síntomas
+3715	Reference	51895,51901	pueden
+3716	Action	51902,51910	conducir
+3717	Concept	51913,51920	pérdida
+3718	Concept	51924,51928	peso
+3719	Concept	51934,51942	líquidos
+3720	Concept	51934,51953	líquidos corporales
+3721	Action	51964,51969	trata
+3722	Concept	51986,51993	músculo
+3723	Concept	51986,52002	músculo cardíaco
+3724	Reference	52003,52011	comienza
+3725	Action	52014,52019	morir
+3726	Concept	52024,52030	cáncer
+3727	Concept	52034,52044	testículos
+3728	Action	52045,52051	afecta
+3729	Concept	52069,52076	hombres
+3730	Concept	52069,52084	hombres jóvenes
+3731	Concept	52103,52107	años
+3732	Concept	52125,52132	alcohol
+3733	Reference	52133,52135	es
+3734	Concept	52151,52161	pesticidas
+3735	Concept	52166,52170	base
+3736	Concept	52166,52180	base biológica
+3737	Reference	52181,52186	están
+3738	Action	52187,52197	haciéndose
+3739	Reference	52230,52235	deben
+3740	Action	52236,52243	limpiar
+3741	Concept	52248,52255	dientes
+3742	Concept	52263,52273	paño suave
+3743	Concept	52292,52299	cepillo
+3744	Concept	52248,52255	dientes
+3745	Concept	52220,52225	bebés
+3746	Concept	52327,52337	torceduras
+3747	Concept	52344,52353	fracturas
+3748	Concept	52358,52365	tobillo
+3749	Reference	52366,52369	son
+3750	Concept	52370,52378	lesiones
+3751	Concept	52370,52389	lesiones deportivas
+3752	Concept	52402,52409	neuroma
+3753	Concept	52402,52418	neuroma acústico
+3754	Reference	52419,52421	es
+3755	Concept	52425,52430	tumor
+3756	Concept	52425,52438	tumor benigno
+3757	Action	52446,52456	desarrolla
+3758	Action	52474,52481	conecta
+3759	Concept	52485,52489	oído
+3760	Concept	52512,52517	dolor
+3761	Reference	52518,52520	es
+3762	Reference	52529,52534	puede
+3763	Action	52535,52545	interferir
+3764	Concept	52554,52565	actividades
+3765	Concept	52554,52576	actividades cotidianas
+3766	Concept	52595,52600	niños
+3767	Action	52623,52630	reciben
+3768	Concept	52662,52670	protegen
+3769	Concept	52685,52691	docena
+3770	Concept	52695,52707	enfermedades
+3771	Concept	52713,52722	sarampión
+3772	Concept	52768,52774	examen
+3773	Reference	52775,52780	puede
+3774	Action	52781,52787	buscar
+3775	Concept	52788,52796	indicios
+3776	Concept	52800,52808	sangrado
+3777	Concept	52811,52822	inflamación
+3778	Concept	52827,52834	cerebro
+3779	Concept	52845,52854	fracturas
+3780	Concept	52859,52865	cráneo
+3781	Action	52870,52876	piensa
+3782	Concept	52892,52898	aborto
+3783	Concept	52903,52910	mayoría
+3784	Concept	52918,52931	profesionales
+3785	Concept	52938,52943	salud
+3786	Action	52944,52952	sugieren
+3787	Concept	52953,52961	asesoría
+3788	Concept	52953,52973	asesoría psicológica
+3789	Concept	52983,52987	tics
+3790	Concept	52983,52995	tics comunes
+3791	Action	53000,53009	parpadear
+3792	Action	53012,53022	carraspear
+3793	Action	53027,53033	existe
+3794	Concept	53034,53038	cura
+3795	Concept	53052,53057	tipos
+3796	Concept	53061,53071	trastornos
+3797	Concept	53075,53085	movimiento
+3798	Concept	53090,53093	ojo
+3799	Reference	53151,53154	son
+3800	Concept	53165,53171	fuente
+3801	Concept	53175,53180	fibra
+3802	Reference	53182,53187	Dejar
+3803	Action	53191,53196	fumar
+3804	Reference	53197,53202	puede
+3805	Action	53203,53210	reducir
+3806	Concept	53214,53220	riesgo
+3807	Action	53224,53233	presentar
+3808	Concept	53240,53249	problemas
+3809	Concept	53255,53261	padres
+3810	Reference	53274,53279	deben
+3811	Action	53280,53287	conocer
+3812	Concept	53294,53302	peligros
+3813	Concept	53309,53315	ovario
+3814	Action	53316,53321	tiene
+3815	Concept	53341,53347	tamaño
+3816	Concept	53353,53358	forma
+3817	Concept	53366,53374	almendra
+3818	Concept	53379,53388	psoriasis
+3819	Reference	53389,53391	es
+3820	Concept	53396,53406	enfermedad
+3821	Concept	53413,53417	piel
+3822	Action	53422,53427	causa
+3823	Action	53428,53435	picazón
+3824	Concept	53438,53445	parches
+3825	Concept	53438,53455	parches dolorosos
+3826	Concept	53413,53417	piel
+3827	Reference	53471,53473	ha
+3828	Action	53474,53483	engrosado
+3829	Action	53486,53496	enrojecido
+3830	Concept	53501,53508	escamas
+3831	Concept	53501,53518	escamas plateadas
+3832	Concept	53524,53534	trastornos
+3833	Concept	53524,53543	trastornos mentales
+3834	Reference	53544,53547	son
+3835	Action	53562,53569	existen
+3836	Concept	53570,53582	tratamientos
+3837	Concept	53570,53594	tratamientos disponibles
+3838	Concept	53600,53605	niños
+3839	Reference	53609,53614	deben
+3840	Reference	53615,53618	ser
+3841	Action	53619,53629	castigados
+3842	Action	53655,53660	Comer
+3843	Concept	53661,53669	calorías
+3844	Concept	53661,53675	calorías extra
+3845	Concept	53690,53695	dieta
+3846	Predicate	53701,53711	balanceada
+3847	Action	53714,53720	tratar
+3848	Concept	53731,53739	problema
+3849	Concept	53731,53746	problema médico
+3850	Reference	53758,53763	puede
+3851	Action	53775,53780	subir
+3852	Concept	53793,53797	moho
+3853	Reference	53798,53803	puede
+3854	Concept	53813,53822	problemas
+3855	Concept	53826,53831	salud
+3856	Concept	53837,53845	personas
+3857	Action	53850,53856	tienen
+3858	Concept	53863,53871	alergias
+3859	Reference	53840,53843	son
+3860	Action	53892,53897	tener
+3861	Concept	53898,53907	urticaria
+3862	Concept	53913,53923	espinillas
+3863	Action	53927,53933	forman
+3864	Concept	53945,53954	folículos
+3865	Action	53970,53980	encuentran
+3866	Action	54002,54007	tapan
+3867	Concept	54012,54022	enfermedad
+3868	Concept	54027,54037	legionario
+3869	Reference	54038,54040	es
+3870	Reference	54049,54054	puede
+3871	Action	54055,54060	poner
+3872	Concept	54064,54068	vida
